@@ -1,0 +1,38 @@
+#User function Template for python3
+
+class Solution:
+    def solve(self, arr, n):
+        # code here
+          
+        if n == 1:
+            return arr[0]
+        
+        arr.sort()
+        
+        x1, x2 = '', ''
+        for i in range(n):
+            if i & 1 == 0:
+                x1 += str(arr[i])
+            else:
+                x2 += str(arr[i])
+        
+        return int(x1) + int(x2)
+
+
+#{ 
+ # Driver Code Starts
+#Initial Template for Python 3
+
+
+
+if __name__ == '__main__':
+    tc = int(input())
+    while tc > 0:
+        n = int(input())
+        arr = list(map(int, input().strip().split()))
+        ob = Solution()
+        ans = ob.solve(arr, n)
+        print(ans)
+        tc -= 1
+
+# } Driver Code Ends
