@@ -1,45 +1,44 @@
 //{ Driver Code Starts
-#include <bits/stdc++.h>
+
+#include<bits/stdc++.h>
 using namespace std;
 
 // } Driver Code Ends
-class Solution {
-  public:
-  
-     int facto(int n){
-        int ans = 1;
-        for(int i=n;i>0;i--){
-            ans*=i;
-        }
-        return ans;
+class Solution
+{
+public:
+	public:
+	int facto(int n){
+	  long long fact=1;
+	    for(long long  i=1;i<=n;i++){fact*=i;}
+	    return fact;
+	}
+		int is_StrongNumber(int n)
+		{
+		      int num = n; int sum = 0;
+        while(n>0){
+        int digit =n%10;
+        sum+=facto(digit);
+        n/=10;
     }
-    int isStrong(int N) {
-        int num = N, sum = 0;
-        while(N!=0){
-            int rem = N%10;
-            sum+= facto(rem);
-            N = N/10;
-        }
-        
-        if(sum == num)
-        return 1;
-        
-    return 0;
-    }
+    return (sum == num) ? 1:0;
+		}
 };
 
-//{ Driver Code Starts.
-int main() {
-    int t;
-    cin >> t;
-    while (t--) {
-        int N;
-        
-        cin>>N;
 
-        Solution ob;
-        cout << ob.isStrong(N) << endl;
+//{ Driver Code Starts.
+int main(){
+    int T;
+    cin >> T;
+    while(T--)
+    {
+    	int n; 
+    	cin >> n;
+    	Solution ob;
+    	int ans = ob.is_StrongNumber(n);
+    	cout << ans <<"\n";
     }
-    return 0;
+	return 0;
 }
+
 // } Driver Code Ends
