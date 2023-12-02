@@ -1,39 +1,43 @@
 //{ Driver Code Starts
-#include<bits/stdc++.h>
+#include <bits/stdc++.h>
 using namespace std;
- 
+
+int convertFive(int n);
+
 // Driver program to test above function
-
-// } Driver Code Ends
-class Solution{
-  public:
-    /*you are required to complete this method*/
-    int convertFive(int n)
-    {
-      string s=to_string(n);
-    for(long long  i=0;i<s.length();i++)
-    {
-        if(s[i]=='0')
-        {
-            s[i]='5';
-        }
-    }
-    long long  m=stoi(s);
-    return m;
-    }
-};
-
-//{ Driver Code Starts.
-int main()
-{
+int main() {
     int T;
-    cin>>T;
-    while(T--)
-    {
-    	int n;
-    	cin>>n;
-    	Solution obj;
-    	cout<<obj.convertFive(n)<<endl;
+    cin >> T;
+    while (T--) {
+        int n;
+        cin >> n;
+        cout << convertFive(n) << endl;
     }
 }
 // } Driver Code Ends
+
+
+/*you are required to complete this method*/
+int convertFive(int n) {
+   string temp1 = "";
+    
+    while(n>0)
+    {
+        int temp = n%10;
+        if(temp==0)
+        {
+            temp1 += '5';
+        }
+        else
+        {
+            temp1 += to_string(temp);
+        }
+        n = n/10;
+    }
+    
+    reverse(temp1.begin(),temp1.end());
+    
+    int ans = stoi(temp1);
+    
+    return ans;
+}
