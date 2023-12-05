@@ -10,17 +10,15 @@ using namespace std;
 class Solution {
   public:
     int getMinDiff(int arr[], int n, int k) {
-        vector<int>ans(n,-1);
-        sort(arr, arr+n);
-        int diff = arr[n-1]-arr[0];
-        for(int i = 1; i<n; i++)
-        {
-            if(arr[i]-k<0) continue;
-            int mini = min(arr[0]+k, arr[i]-k); 
-            int maxi = max(arr[i-1]+k, arr[n-1]-k); 
-            diff = min(diff, maxi-mini);
+         sort(arr,arr+n);
+        int ans=arr[n-1]-arr[0];
+        for(int i=1;i<n;i++){
+            if(arr[i]<k) continue;
+            int maxi=max(arr[i-1]+k,arr[n-1]-k);
+            int mini=min(arr[0]+k,arr[i]-k);
+            ans=min(ans,abs(maxi-mini));
         }
-        return diff;
+        return ans;
     }
 };
 
