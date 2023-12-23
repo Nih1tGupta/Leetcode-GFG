@@ -15,15 +15,13 @@ class Solution
     int posOfRightMostDiffBit(int m, int n)
     {
          if(m == n) return -1;
-        int XOR = m ^ n, pos = 1;
-        while(XOR > 0){
-            if((XOR&1) == 1){
-                return pos;
-            }
-            XOR = XOR>>1;
-            pos++;
-        }
-        return -1;
+       int ans=1;
+       while(m>=0 or n>=0){
+           if((m&1)!=(n&1)){return ans;}
+           m=m>>1;n=n>>1;
+           ans++;
+       }
+       return ans;
     }
 };
 
