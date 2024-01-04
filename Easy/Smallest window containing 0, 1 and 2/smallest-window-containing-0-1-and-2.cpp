@@ -9,27 +9,19 @@ using namespace std;
 class Solution {
   public:
     int smallestSubstring(string S) {
-         if(S.size()<3) return -1;
-        int ans = INT_MAX;
-        
-        char p = S[0];
-        int l = 1;
-        for(int i=1;i<S.size()-1;i++){
-            char c = S[i];
-            char n = S[i+1];
-            if(c==n){
-                l++;
-            }else if(p==c || p==n){
-                l=1;
-                p=c;
-            }else{
-                ans = min(ans,l+2);
-                l=1;
-                p=c;
-            }
-        }
-        
-        return ans==INT_MAX?-1:ans;
+       int x=-1,y=-1,z=-1;int n=S.length();
+       int mini=INT_MAX;
+       for(int i=0;i<n;i++){
+           if(S[i]=='0'){x=i;}
+            else if(S[i]=='1'){y=i;}
+            else if(S[i]=='2'){z=i;}
+            if(x==-1 or y==-1 or z==-1){continue;}
+            int maxii=max({x,y,z});
+             int minii=min({x,y,z});
+             mini = min(mini,maxii-minii+1);
+       }
+       if(mini==INT_MAX){return -1;}
+      return mini;
     }
 };
 
