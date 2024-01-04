@@ -11,11 +11,12 @@ using namespace std;
 class Solution {
   public:
     int singleElement(int arr[] ,int N) {
-       unordered_map<int,int>mp;
-       for(int i=0;i<N;i++){mp[arr[i]]++;}
-       for(int i=0;i<N;i++){
-           if(mp[arr[i]]==1){return arr[i];}
-          
+        unordered_map<int,int>mp;
+        for(int i=0;i<N;i++){mp[arr[i]]++;}
+       for(auto it:mp){
+           if(it.second==1){
+               return it.first;
+           }
        }
        return -1;
     }
