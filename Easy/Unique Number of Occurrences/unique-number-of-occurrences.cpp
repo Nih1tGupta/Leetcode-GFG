@@ -8,26 +8,17 @@ using namespace std;
 class Solution
 {
     public:
-     bool isFrequencyUnique(int n, int arr[])
+    bool isFrequencyUnique(int n, int arr[])
     {
         unordered_map<int,int>mp;
-        
-        for(int i=0; i<n; i++){
-            mp[arr[i]]++;
-        }
-        
-        unordered_map<int,int>mp2;
+        for(int i=0;i<n;i++){mp[arr[i]]++;}
+        unordered_map<int,int>mp1;
         for(auto it:mp){
-            mp2[it.second]++;
+            mp1[it.second]++;
         }
-        
-        if(mp2.size()==mp.size()){
-            return true;
-        }
+        if(mp1.size()==mp.size()){return true;}
         return false;
     }
-
-
 };
 
 //{ Driver Code Starts.
