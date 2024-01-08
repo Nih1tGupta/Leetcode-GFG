@@ -1,4 +1,4 @@
-<h2><a href="https://www.geeksforgeeks.org/problems/reverse-a-doubly-linked-list/1">Reverse a Doubly Linked List</a></h2><h3>Difficulty Level : Easy</h3><hr><div class="problems_problem_content__Xm_eO"><p><span style="font-size: 18px;">Given a <strong>doubly linked list </strong>of <strong>n </strong>elements. Your task is to <strong>reverse </strong>the doubly linked list <strong>in-place</strong>.</span></p>
+<h2><a href="https://www.geeksforgeeks.org/problems/reverse-a-doubly-linked-list/1?page=1&category=Linked%20List&status=solved&sortBy=submissions">Reverse a Doubly Linked List</a></h2><h3>Difficulty Level : Easy</h3><hr><div class="problems_problem_content__Xm_eO"><p><span style="font-size: 18px;">Given a <strong>doubly linked list </strong>of <strong>n </strong>elements. Your task is to <strong>reverse </strong>the doubly linked list <strong>in-place</strong>.</span></p>
 <p><span style="font-size: 18px;"><strong>Example 1:</strong></span></p>
 <pre><span style="font-size: 18px;"><strong>Input:
 </strong>LinkedList: 3 &lt;--&gt; 4 &lt;--&gt; 5
