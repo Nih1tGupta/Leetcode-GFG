@@ -11,16 +11,16 @@ using namespace std;
 class Solution{
 public:
     stack<int> insertAtBottom(stack<int> St,int X){
-            vector<int> v;
-        int n = St.size();
-        for(int i=0; i<n; i++)
-        {
+        vector<int>v;
+        int n=St.size();
+        for(int i=0;i<n;i++){
             v.push_back(St.top());
             St.pop();
         }
         St.push(X);
-        for(int i=1; i<=n; i++) St.push(v[n-i]);
-       
+        for(int i=1;i<=n;i++){
+            St.push(v[n-i]);
+        }
         return St;
     }
 };
