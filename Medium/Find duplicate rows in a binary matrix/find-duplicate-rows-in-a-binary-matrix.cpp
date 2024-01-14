@@ -10,14 +10,17 @@ class Solution
     public:
     vector<int> repeatedRows(vector<vector<int>> &matrix, int M, int N) 
     { 
-       map<vector<int>,int> mp;
-        vector<int> ans;
-        for(int i=0;i<M;i++){
-            if(mp[matrix[i]]) ans.push_back(i);
-            else mp[matrix[i]]++;
-        }
-        return ans;
-      
+       vector<int>ans;
+       set<vector<int>>s;
+       for(int i=0;i<M;i++){
+           if(s.find(matrix[i])!=s.end()){
+               ans.push_back(i);
+           }
+           else{
+               s.insert(matrix[i]);
+           }
+       }
+       return ans;
     } 
 };
 
