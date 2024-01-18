@@ -7,5 +7,5 @@ public:
       int current;
       for(int i=3;i<=n;i++){current=two+one;two=one;one=current;}
       return current;
-          }
+    }
 };
