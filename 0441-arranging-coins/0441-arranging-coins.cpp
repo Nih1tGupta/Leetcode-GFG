@@ -1,14 +1,16 @@
 class Solution {
 public:
     int arrangeCoins(int n) {
-        int c=n;
-        if(n==0){return 0;}
-        if(n==1){return 1; }
-       long long i=1;
-            while(c>0){
-              i++; c-=i;
-            }
-        
-        return i-1;
+        int low = 1;
+        int high = n;
+        long long k = 0;
+        while(low <= high){
+            k = low + (high - low) / 2;
+            long long m = k*(k+1)/2;
+            if (m== n) return k;
+            else if(m > n) high =  k - 1;
+            else low = k + 1;
+        }
+        return high;
     }
 };
