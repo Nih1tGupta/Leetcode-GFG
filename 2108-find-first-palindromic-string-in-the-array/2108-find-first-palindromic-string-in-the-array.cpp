@@ -1,16 +1,22 @@
 class Solution {
 public:
-    bool check(string s){
-        int i=0;int j=s.length()-1;
-        while(i<j){
-            if(s[i]!=s[j]){return false;}
-            else{i++;j--;}
-        }
-        return true;
-    }
     string firstPalindrome(vector<string>& words) {
-        for(int i=0;i<words.size();i++){
-            if(check(words[i])){return words[i];}
+        int n=words.size();
+        for(int i=0;i<n;i++){
+            int m=words[i].size();
+            int j=0,k=m-1;
+            int isPalindrome=true;
+            while(j<k){
+                if(words[i][j]!=words[i][k]){
+                    isPalindrome=false;
+                    break;
+                }
+                j++;
+                k--;
+            }
+            if(isPalindrome==true){
+                return words[i];
+            } 
         }
         return "";
     }
