@@ -1,21 +1,13 @@
 class Solution {
 public:
     int pivotInteger(int n) {
-         int tot = 0;
+        int total= n*(n+1)/2;
         for(int i=1;i<=n;i++){
-            tot = tot+i;
+             int lsum= i*(i+1)/2;
+            int rsum= total-lsum+i;
+            if(lsum==rsum){return i;}
         }
-        int left = 0;
-        int right = tot;
-        for(int i=1;i<=n;i++){
-            right = right-i;
-            if(left != right){
-                left = left+i;
-            }
-            else{
-                return i;
-            }
-        }
-        return -1;
+       return -1;
+        
     }
 };
