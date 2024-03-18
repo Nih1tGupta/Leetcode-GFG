@@ -1,41 +1,28 @@
 class Solution {
 public:
     vector<vector<int>> onesMinusZeros(vector<vector<int>>& grid) {
-         int m = grid.size();
-        int n = grid[0].size();
-        vector<vector<int>> res(m, vector<int>(n, 0));
-        vector<int> onesRow(m, 0);
-        vector<int> onesCol(n, 0);
-
-        for (int i = 0; i < m; i++) {
-            onesRow[i] = count(grid[i].begin(), grid[i].end(), 1);
-        }
-
-        for (int j = 0; j < n; j++) {
-            for (int i = 0; i < m; i++) {
-                onesCol[j] += grid[i][j];
+        int m=grid.size();
+        int n=grid[0].size();
+        vector<int>rowOne(m,0);
+          vector<int>colOne(n,0);
+        for(int i=0;i<m;i++){
+            for(int j=0;j<n;j++){
+                if(grid[i][j]==1){rowOne[i]+=1;colOne[j]+=1;}
             }
         }
-
-        for (int i = 0; i < m; i++) {
-            for (int j = 0; j < n; j++) {
-                res[i][j] = onesRow[i] + onesCol[j] - (m - onesRow[i]) - (n - onesCol[j]);
+        vector<vector<int>>diff(m,vector<int>(n,0));
+         for(int i=0;i<m;i++){
+            for(int j=0;j<n;j++){
+               int  onesRowi = rowOne[i];
+               int  zerosRowi  = m-onesRowi;
+               int onesColj= colOne[j];
+               int  zerosColj = n-onesColj;
+               diff[i][j] = onesRowi + onesColj - zerosRowi - zerosColj;
             }
-        }
+              
+         }
+        
 
-        return res; 
+        return diff;
     }
 };
-
-
-
-
-
-
-
-
-
-
-
-
-
