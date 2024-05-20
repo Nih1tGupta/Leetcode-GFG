@@ -6,23 +6,19 @@ using namespace std;
 class Solution
 {
 	public:
-		long long int PowMod(long long int x,long long int n,long long int M)
-		{
-		     if(n == 1) return x;
-	    if(n == 0) return 1;
-	    
-	    long long int ans = 1;
-	    if(n & 1) {
-	        ans = (ans * x) % M;
-	        n--;
-	    }
-	    
-	    long long int num = PowMod(x, n/2, M);
-	    
-	    ans = (ans * num) % M;
-	    ans = (ans * num) % M;
-	    return ans;
+		long long int PowMod(long long int x,long long int n,long long int m){
+	  if (n == 0) return 1;
+            long long int result = 1;
+            while (n > 0) {
+                if (n % 2 == 1) {
+                    result = (result * x) % m;
+                }
+            x = (x * x) % m;
+            n /= 2;
+        }
+            return result;
 		}
+
 };
 
 //{ Driver Code Starts.
