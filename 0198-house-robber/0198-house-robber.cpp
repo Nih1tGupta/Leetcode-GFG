@@ -1,14 +1,18 @@
 class Solution {
 public:
-    int rob(vector<int>& nums) {
-           int sum1 = nums[0];
-    int sum2 = 0;
-    int result;
-    for (int i = 1; i < nums.size(); i++){
-        result = (sum1 > sum2) ? sum1 : sum2;
-        sum1 = sum2 + nums[i];
-        sum2 = result;
+    int dp[101];
+    int solve(int i,vector<int>&nums,   vector<int>&dp){
+        int n=nums.size();
+        if(i==0){return nums[0];}
+        if(i<0){return 0;}
+        if(dp[i]!=-1){return dp[i];}
+        int p=nums[i]+solve(i-2,nums,dp);
+        int np=solve(i-1,nums,dp);
+        return dp[i]=max(p,np);
     }
-    return ((sum1 > sum2) ? sum1 : sum2);
+    int rob(vector<int>& nums) {
+        int n=nums.size();
+        vector<int>dp(n,-1);
+        return solve(n-1,nums,dp);
     }
 };
