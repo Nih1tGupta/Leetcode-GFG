@@ -15,8 +15,8 @@ public:
        if(root==nullptr){return 0;}
         t=t-root->val;
         if(t==0 and root->right==nullptr and root->left==nullptr){return 1;}
-        int right= hasPathSum(root->left,t);
-        int left=hasPathSum(root->right,t);
+        int left= hasPathSum(root->left,t);
+        int right=hasPathSum(root->right,t);
         return right||left;
     }
 };
