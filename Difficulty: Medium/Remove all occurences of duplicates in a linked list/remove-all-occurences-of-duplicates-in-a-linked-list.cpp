@@ -31,15 +31,21 @@ struct Node {
 class Solution {
   public:
     Node* removeAllDuplicates(struct Node* head) {
-        map<int,int>mp;
-        while(head!=nullptr){mp[head->data]++;head=head->next;}
-        Node*dummy= new Node(0);
+       map<int,int>mp;
+       Node*temp=head;
+       while(temp!=nullptr){
+           mp[temp->data]++;
+           temp=temp->next;
+       }
+       Node*dummy= new Node(0);
         dummy->next=head;
         Node*head1=dummy;
-        for(auto it:mp){
-            if(it.second==1){head1->next=new Node(it.first);head1=head1->next;}
-        }
-        return dummy->next;
+       for(auto it:mp){
+           if(it.second==1){
+              head1->next= new Node(it.first);head1=head1->next;
+           }
+       }
+       return dummy->next;
     }
 };
 
