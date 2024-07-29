@@ -7,23 +7,25 @@ using namespace std;
 // User function template for C++
 class Solution {
   public:
-    int rowWithMax1s(vector<vector<int> > arr) {
+    int rowWithMax1s(vector<vector<int> > &arr) {
         // code here
-        int n=arr.size();int m=arr[0].size();
-          int ans=-1;int maxi=0;int sum;
-	   for(int i=0;i<n;i++){
-	       sum=0;
-	       for(int j=0;j<m;j++){
-	           sum+=arr[i][j];
-	       }
-	       if(sum==m){return i;}
-	           if(sum>maxi){
-	               maxi=sum;
-	               ans=i;
-	             }
-	   }
-	   return ans;
-        
+         int n = arr.size();
+        int m = arr[0].size();
+        int r = 0;              // keeps track of row; starts at first row
+        int c = m - 1;          // keeps track of column; starts at last column
+        int max_row_index = -1; // keeps track of result row index
+
+        // starting from top right corner
+        // go left if you encounter 1
+        // do down if you encounter 0
+        while (r < n && c >= 0) {
+            if (arr[r][c] == 1) {
+                max_row_index = r;
+                c--;
+            } else
+                r++;
+        }
+        return max_row_index;
     }
 };
 
