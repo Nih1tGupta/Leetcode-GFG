@@ -8,7 +8,7 @@ class Solution {
   public:
     int longestCommonSubstr(string str1, string str2) {
         // your code here
-         int maxLen = 0;
+        int maxLen = 0;
         string str;
         
         
