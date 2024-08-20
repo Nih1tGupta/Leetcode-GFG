@@ -96,7 +96,7 @@ struct Node {
 */
 class Solution {
   public:
- int findMaxDistance(unordered_map<Node*, Node*>& mpp, Node* target) {
+     int findMaxDistance(unordered_map<Node*, Node*>& mpp, Node* target) {
         queue<Node*> q;
         q.push(target);
 
