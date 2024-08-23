@@ -9,52 +9,44 @@ using namespace std;
 
 class Solution {
   public:
-     unordered_map<char,vector<char>> adj;
-  
+  	vector<int> topoSort(int V, vector<int> adj[]) 
+	{
+	    // code here
+	    int indeg[V]={0};
+	    for(int i=0;i<V;i++){
+	    for(auto it:adj[i]){
+	        indeg[it]++;
+	    }
+	    }
+	    queue<int>q;
+	    for(int i=0;i<V;i++){
+	        if(indeg[i]==0)q.push(i);
+	    }
+	    vector<int>v;
+	    while(!q.empty()){
+	        int front=q.front();q.pop();
+	        v.push_back(front);
+	        for(auto it:adj[front]){
+	            indeg[it]--;
+	            if(indeg[it]==0){q.push(it);}
+	        }
+	    }
+	    return v;
+	}
     string findOrder(string dict[], int n, int k) {
-        string ans;
+        // code here
+        vector<int>adj[k];
         for(int i=0;i<n-1;i++){
-            string s1 = dict[i];
-            string s2 = dict[i+1];
-            int l = min(s1.length(),s2.length());
-            int j = 0;
-            while(j < l){
-                if(s1[j] != s2[j]){
-                    adj[s1[j]].push_back(s2[j]);
-                    break;
-                }
-                j++;
+            string str1=dict[i];string str2=dict[i+1];
+            int sz=min(str1.length(),str2.length());
+            for(int j=0;j<sz;j++){
+                if(str1[j]!=str2[j]){adj[str1[j]-'a'].push_back(str2[j]-'a');break;}
             }
         }
-        
-        unordered_map<char,int> indegree;
-        for(auto i:adj){
-            indegree[i.first] += 0;
-            for(auto j:i.second){
-                indegree[j]++;
-            }
-        }
-        
-        unordered_map<char,bool> visited;
-        
-        while(k--){
-            vector<pair<int,char>> p;
-            for(auto i:indegree){
-                if(visited[i.first] == false){
-                    p.push_back({i.second,i.first});
-                }
-            }
-            sort(p.begin(),p.end());
-            if(p.size() > 0){
-                char ch = p[0].second;
-                ans.push_back(ch);
-                for(auto j:adj[ch]){
-                    indegree[j]--;
-                }
-                visited[ch] = true;
-            }
-        }
-        return ans;
+        vector<int>v=topoSort(k,adj);
+        string s="";
+        for(auto it:v){s+=char(it+'a');}
+        return s;
     }
 };
 
