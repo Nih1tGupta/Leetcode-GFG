@@ -138,6 +138,6 @@ vector<int> leftView(Node *root)
 {
    // Your code here
    vector<int>v;
-    solve(root,v,0);
-    return v;
+   solve(root,v,0);
+   return v;
 }
