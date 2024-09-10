@@ -10,28 +10,28 @@ class Solution {
   public:
     vector<int> shortestPath(vector<vector<int>>& edges, int N,int M, int src){
         // code here
-         vector<int> res(N, -1), adj[N+1]; bool vis[N+1]; 
-        int dist = -1; memset(vis, false, sizeof(vis));
-        queue<int> q; q.push(src); vis[src] = true;
-        for ( auto i : edges ){
-            int u = i[0], v = i[1];
-            adj[u].push_back(v);
-            adj[v].push_back(u);
+        vector<int>adj[N];
+        for(auto it:edges){
+            adj[it[0]].push_back(it[1]);
+              adj[it[1]].push_back(it[0]);
         }
-        while ( !q.empty() ){
-            int k = q.size();
-            dist++;
-            while ( k-- ){
-                int p = q.front(); q.pop();
-                res[p] = dist;
-                for ( auto i : adj[p] ){
-                    if ( !vis[i] ){
-                        vis[i] = true;
-                        q.push(i);
-                    }
-                }
-            }
-        } return res;
+        int dis[N];
+        for(int i=0;i<N;i++){dis[i]=1e9;}
+        dis[src]=0;
+      queue<int>q;
+      q.push(src);
+      while(!q.empty()){
+          int f=q.front();q.pop();
+          for(auto it:adj[f]){
+              if(dis[f]+1<dis[it]){dis[it]=1+dis[f]; q.push(it);}
+             
+          }
+      }
+      vector<int>v(N,-1);
+      for(int i=0;i<N;i++){
+          if(dis[i]!=1e9){v[i]=dis[i];}
+      }
+       return v; 
     }
 };
 
