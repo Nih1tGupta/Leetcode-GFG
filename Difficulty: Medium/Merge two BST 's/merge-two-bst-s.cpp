@@ -94,31 +94,46 @@ struct Node {
 */
 class Solution {
   public:
+  void inorder(Node*root,vector<int> &arr){
+        if(root == NULL) return ;
+        
+        inorder(root->left,arr);
+        arr.push_back(root->data);
+        inorder(root->right,arr);
+    }
     // Function to return a list of integers denoting the node
     // values of both the BST in a sorted order.
-   void fun(Node*root,multiset<int>&s)
-    {
-        if(root==NULL)
-        {
-            return;
-        }
-        s.insert(root->data);
-        fun(root->left,s);
-        fun(root->right,s);
-        
-    }
-    
     vector<int> merge(Node *root1, Node *root2) {
-        // Your code here
-        vector<int>v;
-        multiset<int>s;
-        fun(root1,s);
-        fun(root2,s);
-        for( auto i = s.begin();i!=s.end();i++)
-        {
-            v.push_back(*i);
+       vector<int> v1,v2;
+        inorder(root1,v1);
+        inorder(root2,v2);
+        
+        int i =0;
+        int j = 0;
+        
+        vector<int> ans;
+       while (i < v1.size() && j < v2.size()) {
+            if (v1[i] <= v2[j]) {
+                ans.push_back(v1[i]);
+                i++;
+            } else {
+                ans.push_back(v2[j]);
+                j++;
+            }
         }
-        return v;
+
+        // Add remaining elements from v1
+        while (i < v1.size()) {
+            ans.push_back(v1[i]);
+            i++;
+        }
+
+        // Add remaining elements from v2
+        while (j < v2.size()) {
+            ans.push_back(v2[j]);
+            j++;
+        }
+        return ans;
     }
 };
 
