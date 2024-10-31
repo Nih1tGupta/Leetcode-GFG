@@ -19,6 +19,7 @@
 | ------- |
 | [0605-can-place-flowers](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0605-can-place-flowers) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [2554-minimum-total-distance-traveled](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2554-minimum-total-distance-traveled) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Greedy
 |  |
@@ -29,6 +30,7 @@
 |  |
 | ------- |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [2554-minimum-total-distance-traveled](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2554-minimum-total-distance-traveled) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Matrix
 |  |
@@ -38,4 +40,8 @@
 |  |
 | ------- |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+## Sorting
+|  |
+| ------- |
+| [2554-minimum-total-distance-traveled](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2554-minimum-total-distance-traveled) |
 <!---LeetCode Topics End-->
