@@ -5,31 +5,29 @@ using namespace std;
 // } Driver Code Ends
 class Solution {
 public:
-	bool isPossible(int N,int P, vector<pair<int, int> >& prerequisites) {
-	    // Code here
-	    vector<int>adj[N];
-	    for(auto it:prerequisites){
-	        adj[it.first].push_back(it.second);
-	    }
-	    int indegree[N]={0};
-	    for(int i=0;i<N;i++){
-	        for(auto it:adj[i]){indegree[it]++;}
-	    }
-	    queue<int>q;
-	    for(int i=0;i<N;i++){
-	        if(indegree[i]==0){q.push(i);}
-	    }
-	    vector<int>v;
-	    while(!q.empty()){
-	        int node=q.front();q.pop();
-	        v.push_back(node);
-	        for(auto it:adj[node]){
-	            indegree[it]--;
-	            if(indegree[it]==0){q.push(it);}
-	        }
-	    }
-	    if(v.size()==N)return true;
-	    return false;
+	bool isPossible(int N,int P, vector<pair<int, int> >& p) {
+	   vector<int>adj[N];
+	   for(auto &it:p){adj[it.first].push_back(it.second);}
+	   int indegree[N]={0};
+	   for(int i=0;i<N;i++){
+	       for(auto &it:adj[i]){indegree[it]++;}
+	   }
+	   queue<int>q;int c=0;
+	   for(int i=0;i<N;i++){if(indegree[i]==0)q.push(i);}
+	   vector<int>v;
+	   while(!q.empty()){
+	       int fr=q.front();q.pop();c++;
+	       for(auto it:adj[fr]){
+	           indegree[it]--;
+	           if(indegree[it]==0){q.push(it);}
+	           
+	       }
+	       
+	   }
+	   if(c==N)return true;
+	   return false;
+	   
+	   
 	}
 };
 
@@ -55,7 +53,9 @@ int main(){
         else
             cout << "No";
         cout << endl;
-	}
+	
+cout << "~" << "\n";
+}
 	return 0;
 }
 // } Driver Code Ends
