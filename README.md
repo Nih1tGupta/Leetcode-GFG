@@ -10,6 +10,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0014-longest-common-prefix) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1302-delete-characters-to-make-fancy-string) |
 ## Trie
 |  |
 | ------- |
