@@ -11,6 +11,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0014-longest-common-prefix) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [2580-circular-sentence](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2580-circular-sentence) |
 ## Trie
 |  |
 | ------- |
