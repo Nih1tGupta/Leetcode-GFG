@@ -43,22 +43,22 @@ struct Node
 
 class Solution {
   public:
-   int solve(Node*head){
-       if(head==nullptr)return 1;
-       int carry=solve(head->next);
-       head->data+=carry;
-       if(head->data<10)return 0;
-       head->data=0;
-       return 1;
-   }
+  int help(Node* head){
+      if(head==nullptr)return 1;
+     int carry=help(head->next);
+     head->data+=carry;
+     if(head->data<10){return 0;}
+     head->data=0;
+     return 1;
+  }
     Node* addOne(Node* head) {
         // Your Code here
         // return head of list after adding one
-        int carry=solve(head);
+        int carry=help(head);
         if(carry==1){
-            Node* newNode= new Node(carry);
-             newNode->next=head;
-             return newNode;
+            Node* one= new Node(1);
+            one->next=head;
+            return one;
         }
         return head;
     }
@@ -96,6 +96,7 @@ int main() {
         Solution ob;
         head = ob.addOne(head);
         printList(head);
+        cout << "~" << endl;
     }
     return 0;
 }
