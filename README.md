@@ -17,6 +17,7 @@
 | [0014-longest-common-prefix](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0014-longest-common-prefix) |
 | [0812-rotate-string](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0812-rotate-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [2232-adding-spaces-to-a-string](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2232-adding-spaces-to-a-string) |
 | [2580-circular-sentence](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2580-circular-sentence) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3451-string-compression-iii](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3451-string-compression-iii) |
@@ -35,6 +36,7 @@
 | [1940-maximum-xor-for-each-query](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1940-maximum-xor-for-each-query) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+| [2232-adding-spaces-to-a-string](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2232-adding-spaces-to-a-string) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2554-minimum-total-distance-traveled](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2554-minimum-total-distance-traveled) |
@@ -115,6 +117,7 @@
 |  |
 | ------- |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [2232-adding-spaces-to-a-string](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2232-adding-spaces-to-a-string) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Stack
 |  |
@@ -136,4 +139,8 @@
 |  |
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+## Simulation
+|  |
+| ------- |
+| [2232-adding-spaces-to-a-string](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2232-adding-spaces-to-a-string) |
 <!---LeetCode Topics End-->
