@@ -1,16 +1,22 @@
 class Solution {
 public:
+    int f(vector<int>&nums,int y){
+        int idx=0;
+        int l=0; int r=nums.size()-1;
+        while(l<=r){
+            int m=(l+r)/2;
+            if(nums[m]<=y){idx=m;l=m+1;}
+            else{r=m-1;}
+        }
+        return idx;
+    }
     int maximumBeauty(vector<int>& nums, int k) {
         sort(nums.begin(),nums.end());
-        vector<pair<int,int>>v;
+       int maxi=0;
         for(int i=0;i<nums.size();i++){
-            v.push_back({nums[i]-k,nums[i]+k});
-        }
-        queue<pair<int,int>>q;int maxi=0;
-        for(auto it:v){
-            while(!q.empty() and q.front().second<it.first){q.pop();}
-            q.push({it.first,it.second});
-            maxi=max(maxi,(int)q.size());
+            int a=nums[i];int y=a+2*k;
+            int idx=f(nums,y);
+            maxi=max(maxi,idx-i+1);
         }
         return maxi;
     }
