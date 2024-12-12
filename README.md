@@ -48,6 +48,7 @@
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2554-minimum-total-distance-traveled](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2554-minimum-total-distance-traveled) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2716-prime-subtraction-operation) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2794-maximum-number-of-moves-in-a-grid) |
@@ -167,6 +168,7 @@
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [2164-two-best-non-overlapping-events](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2164-two-best-non-overlapping-events) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2692-take-gifts-from-the-richest-pile) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -175,4 +177,5 @@
 |  |
 | ------- |
 | [2232-adding-spaces-to-a-string](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2232-adding-spaces-to-a-string) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2692-take-gifts-from-the-richest-pile) |
 <!---LeetCode Topics End-->
