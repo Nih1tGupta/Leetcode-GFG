@@ -10,7 +10,7 @@ using namespace std;
 
 class Solution {
   public:
-     bool help(vector<int>&stalls,int dis,int k){
+    bool help(vector<int>&stalls,int dis,int k){
          int c=1;int last=stalls[0];
          for(int i=1;i<stalls.size();i++){
              if(stalls[i]-last>=dis){c++;last=stalls[i];}
@@ -20,18 +20,18 @@ class Solution {
      }
     int aggressiveCows(vector<int> &stalls, int k) {
     sort(stalls.begin(),stalls.end());int n=stalls.size();
-    int mini=0;int maxi=stalls[n-1]-stalls[0];int ans=0;
-        // for(int i=1;i<=maxi-mini;i++){
+    // int mini=stalls[0];int maxi=stalls[n-1];
+        // for(int i=0;i<=maxi-mini;i++){
         //     if(help(stalls,i,k)==true)continue;
         //     else{return i-1;}
         // }
-        
-        while(mini<=maxi){
-            int mid=(mini+maxi)/2;
-            if( help(stalls,mid,k)==true){ans=mid;mini=mid+1;}
-            else{maxi=mid-1;}
+        int l=0;int h=stalls[n-1]-stalls[0];
+        while(l<=h){
+            int m=(l+h)/2;
+            if(help(stalls,m,k)==true){l=m+1;}
+            else{h=m-1;}
         }
-        return ans;
+        return h;
     }
 };
 
