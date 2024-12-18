@@ -1,66 +1,69 @@
 //{ Driver Code Starts
-// Initial template for C++
+// Initial function template for C++
 
 #include <bits/stdc++.h>
 using namespace std;
 
 
 // } Driver Code Ends
-// User function template in C++
-
 class Solution {
   public:
-    bool possible(int v[], long long mid, int member, int n){
-    int cnt = 0;
-    int running = 0;
-    for(int i = 0; i < n; i++){
-        running += v[i];
-        
-        if(running > mid){
-            cnt++;
-            running = v[i];
+   int h(vector<int>&arr,int cap){
+       int s=1;int has=0;
+       for(int i=0;i<arr.size();i++){
+           if(has+arr[i]<=cap){has+=arr[i];}
+           else{s+=1;has=arr[i];}
+       }
+       return s;
+   }
+    int findPages(vector<int> &arr, int k) {
+        if(k>arr.size())return -1;
+        int s=0;for(auto it:arr){s+=it;}
+        if(k==1){ return s;}
+        int n=arr.size();
+        int mini=*max_element(arr.begin(),arr.end());
+        int maxi=s;
+        while(mini<=maxi){
+            int m=(mini+maxi)/2;
+            if(h(arr,m) >k){mini=m+1;}
+            else{maxi=m-1;}
         }
-    }
-    return cnt >= member;
-}
-    long long findPages(int n, int arr[], int m) {
-        long long start = INT_MIN, end = 0;
-        if(n < m)
-            return -1;
-        for(int i = 0; i < n; i++){
-            long long v = arr[i];
-            start = max(start, v);
-            end += v;
-        }
-        while(start <= end){
-            long long mid = start + (end - start) / 2;
-            if(possible(arr, mid, m, n))
-                start = mid + 1;
-            else
-                end = mid - 1;
-        }
-        return start;
+        return mini;
     }
 };
 
 //{ Driver Code Starts.
 
 int main() {
-    int t;
-    cin >> t;
-    while (t--) {
-        int n;
-        cin >> n;
-        int A[n];
-        for (int i = 0; i < n; i++) {
-            cin >> A[i];
+    int test_case;
+    cin >> test_case;
+    cin.ignore();
+    while (test_case--) {
+
+        int d;
+        vector<int> arr, brr, crr;
+        string input;
+        getline(cin, input);
+        stringstream ss(input);
+        int number;
+        while (ss >> number) {
+            arr.push_back(number);
         }
-        int m;
-        cin >> m;
+        getline(cin, input);
+        ss.clear();
+        ss.str(input);
+        while (ss >> number) {
+            crr.push_back(number);
+        }
+        d = crr[0];
+        int n = arr.size();
         Solution ob;
-        cout << ob.findPages(n, A, m) << endl;
+        int ans = ob.findPages(arr, d);
+        cout << ans << endl;
+
+        cout << "~"
+             << "\n";
     }
     return 0;
 }
-
 // } Driver Code Ends
