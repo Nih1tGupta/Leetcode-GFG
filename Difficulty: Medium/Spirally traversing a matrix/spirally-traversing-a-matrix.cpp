@@ -6,38 +6,31 @@ using namespace std;
 // } Driver Code Ends
 class Solution {
   public:
-    vector<int> spirallyTraverse(vector<vector<int> > &matrix) {
-        // code here
-         vector<int>ans;
-        int n = matrix.size(),m= matrix[0].size();
-        int top=0,left=0;int bottom=n-1;int right=m-1;
-
-        while(left<=right && top <=bottom){
-        for(int i=left;i<=right;i++){
-            ans.push_back(matrix[top][i]);
+    vector<int> spirallyTraverse(vector<vector<int> > &mat) {
+        int n=mat.size(); int m=mat[0].size();
+        int t=0;int b=n-1;int l=0;int r=m-1;
+        vector<int>v;int d=0;
+        while(t<=b and l<=r){
+            if(d==0){
+                for(int i=l;i<=r;i++){v.push_back(mat[t][i]);}
+                t++;
+            }
+            if(d==1){
+                for(int i=t;i<=b;i++){v.push_back(mat[i][r]);}
+                r--;
+            }
+            if(d==2){
+                for(int i=r;i>=l;i--){v.push_back(mat[b][i]);}
+                b--;
+            }
+            if(d==3){
+                for(int i=b;i>=t;i--){v.push_back(mat[i][l]);}
+                l++;
+            }
+            d++;
+            d%=4;
         }
-        top++;
-
-         for(int i=top;i<=bottom;i++){
-            ans.push_back(matrix[i][right]);
-        }
-        right--;
-
-        if(top<=bottom){
-          for(int i=right;i>=left;i--){
-            ans.push_back(matrix[bottom][i]);
-        }
-        bottom--;
-    }
-        if(left<=right){
-           for(int i=bottom;i>=top;i--){
-            ans.push_back(matrix[i][left]);
-        }
-        left++;
-        }
-    }
-
-return ans;
+        return v;
     }
 };
 
@@ -49,9 +42,10 @@ int main() {
     while (t--) {
         int r, c;
         cin >> r >> c;
-        vector<vector<int>> matrix(r, vector<int>(c, 0));
+        vector<vector<int>> matrix(r);
 
         for (int i = 0; i < r; i++) {
+            matrix[i].assign(c, 0);
             for (int j = 0; j < c; j++) {
                 cin >> matrix[i][j];
             }
@@ -62,6 +56,9 @@ int main() {
         for (int i = 0; i < result.size(); ++i)
             cout << result[i] << " ";
         cout << endl;
+
+        cout << "~"
+             << "\n";
     }
     return 0;
 }
