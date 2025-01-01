@@ -17,6 +17,7 @@
 | [0014-longest-common-prefix](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0014-longest-common-prefix) |
 | [0812-rotate-string](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0812-rotate-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2232-adding-spaces-to-a-string](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2232-adding-spaces-to-a-string) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2300-construct-string-with-repeat-limit) |
 | [2580-circular-sentence](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2580-circular-sentence) |
@@ -138,6 +139,7 @@
 |  |
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1940-maximum-xor-for-each-query](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1940-maximum-xor-for-each-query) |
 | [3427-special-array-ii](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3427-special-array-ii) |
 ## Sliding Window
