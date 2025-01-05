@@ -17,6 +17,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0014-longest-common-prefix) |
 | [0812-rotate-string](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0812-rotate-string) |
+| [0878-shifting-letters](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0878-shifting-letters) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -40,6 +41,7 @@
 | [0162-find-peak-element](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0162-find-peak-element) |
 | [0605-can-place-flowers](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0605-can-place-flowers) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0780-max-chunks-to-make-sorted) |
+| [0878-shifting-letters](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0878-shifting-letters) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1646-kth-missing-positive-number](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1646-kth-missing-positive-number) |
@@ -143,6 +145,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0878-shifting-letters](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0878-shifting-letters) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1940-maximum-xor-for-each-query](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1940-maximum-xor-for-each-query) |
