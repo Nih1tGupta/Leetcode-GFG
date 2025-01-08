@@ -7,27 +7,17 @@ using namespace std;
 class Solution {
   public:
     vector<int> subarraySum(vector<int> &arr, int target) {
-       int i=0; //left
-        int j=0; //right
-        long long sum = 0;
-        int n=arr.size();
-        while( j<n ){
-            sum+=arr[j];
-            if( sum > target ){
-                while( i<j and sum > target ){
-                    sum-=arr[i];
-                    i++;
-                }
-            }
-            if( sum==target ){
-                return {i+1, j+1};
-            }
-            else{
-                j++;
-            }
-        }
-        
-        return {-1};
+      int s=0;int e=0;
+      vector<int>v;int c=0;
+      for(int i=0;i<arr.size();i++){
+          c+=arr[i];
+          if(c>=target){
+              e=i;
+              while(c>target and s<e){c-=arr[s];s++;}
+              if(c==target){return {s+1,e+1};}
+          }
+      }
+      return {-1};
     }
 };
 
