@@ -251,4 +251,8 @@
 |  |
 | ------- |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Database
+|  |
+| ------- |
+| [1827-invalid-tweets](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1827-invalid-tweets) |
 <!---LeetCode Topics End-->
