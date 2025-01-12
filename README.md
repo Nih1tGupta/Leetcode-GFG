@@ -24,6 +24,7 @@
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2232-adding-spaces-to-a-string](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2232-adding-spaces-to-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2300-construct-string-with-repeat-limit) |
@@ -92,6 +93,7 @@
 | [1502-construct-k-palindrome-strings](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1502-construct-k-palindrome-strings) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1917-maximum-average-pass-ratio](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1917-maximum-average-pass-ratio) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2300-construct-string-with-repeat-limit) |
 | [2716-prime-subtraction-operation](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2716-prime-subtraction-operation) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
@@ -209,6 +211,7 @@
 | [0780-max-chunks-to-make-sorted](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0780-max-chunks-to-make-sorted) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 ## Monotonic Stack
 |  |
 | ------- |
