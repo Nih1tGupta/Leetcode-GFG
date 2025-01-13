@@ -50,6 +50,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0162-find-peak-element](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0162-find-peak-element) |
 | [0605-can-place-flowers](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0605-can-place-flowers) |
+| [0733-flood-fill](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0733-flood-fill) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0780-max-chunks-to-make-sorted) |
 | [0878-shifting-letters](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0878-shifting-letters) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
@@ -110,6 +111,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0733-flood-fill](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0733-flood-fill) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Binary Search
 |  |
@@ -268,4 +270,12 @@
 |  |
 | ------- |
 | [1827-invalid-tweets](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1827-invalid-tweets) |
+## Depth-First Search
+|  |
+| ------- |
+| [0733-flood-fill](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0733-flood-fill) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0733-flood-fill](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0733-flood-fill) |
 <!---LeetCode Topics End-->
