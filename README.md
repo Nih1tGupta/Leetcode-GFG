@@ -50,6 +50,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0130-surrounded-regions](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0130-surrounded-regions) |
 | [0162-find-peak-element](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0162-find-peak-element) |
+| [0494-target-sum](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0542-01-matrix) |
 | [0605-can-place-flowers](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0605-can-place-flowers) |
 | [0733-flood-fill](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0733-flood-fill) |
@@ -107,6 +108,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0494-target-sum](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0542-01-matrix) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2164-two-best-non-overlapping-events](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2164-two-best-non-overlapping-events) |
@@ -302,4 +304,8 @@
 |  |
 | ------- |
 | [0801-is-graph-bipartite](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0801-is-graph-bipartite) |
+## Backtracking
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
