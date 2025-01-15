@@ -49,15 +49,24 @@ struct Node
 class Solution {
   public:
     void deleteAllOccurOfX(struct Node** head_ref, int x) {
-       Node*head=*head_ref; Node*curr=head;
-       while(curr!=nullptr){
-           if(curr->data==x){
-               if(curr->prev!=nullptr){curr->prev->next=curr->next;}
-               else{*head_ref=curr->next;}
-               if(curr->next!=nullptr){curr->next->prev=curr->prev;}
-           }
-           curr=curr->next;
-       }
+        Node*head1=*head_ref;
+        Node*curr=head1;
+        while(curr!=nullptr){
+            if(curr->data==x){
+            if(curr->prev!=nullptr){
+                curr->prev->next=curr->next;
+            }
+            else{
+                *head_ref=curr->next;
+            }
+            if(curr->next!=nullptr){
+                curr->next->prev=curr->prev;
+            }
+            }
+            curr=curr->next;
+            
+        }
+       
     }
 };
 
