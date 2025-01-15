@@ -112,7 +112,7 @@ public:
         if(nxt)nxt->prev=prev;
         prev=prev->next;
         }
-        // prev->next==nullptr;
+        // prev->next=nullptr;
         return head;
     }
 };
