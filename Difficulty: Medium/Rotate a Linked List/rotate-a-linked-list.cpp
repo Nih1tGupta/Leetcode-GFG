@@ -38,21 +38,27 @@ struct Node {
 
 class Solution {
   public:
-    // Function to rotate a linked list.
     Node* rotate(Node* head, int k) {
-        // Your code here
-         Node *curr=head,*prev=head,*next=NULL;
-        while(curr->next!=NULL){
-            if(k==1) next=curr;
-            k--;
-            curr=curr->next;
+        int len=1;           // calculate length
+        Node* temp=head;  //pointer to last element
+        while(temp->next!=NULL){
+            temp=temp->next;
+            len++;
         }
-        
-        if(next==NULL) return head;
-        head=next->next;
-        curr->next=prev;
-        next->next=NULL;
-        return head;
+        temp->next=head;// to make circular singly linked list
+        k=k%len;
+        Node* start=head;
+        while(k>0){ // to find start of rotated linked list
+            start=start->next;
+            k--;
+        }
+        temp= start;
+        while(len>1){// to find start of rotated linked list
+            temp=temp->next;
+            len--;
+        }
+        temp->next=NULL;
+        return start;
     }
 };
 
@@ -94,6 +100,7 @@ int main() {
         Solution ob;
         head = ob.rotate(head, k);
         printList(head);
+        cout << "~\n";
     }
     return 1;
 }
