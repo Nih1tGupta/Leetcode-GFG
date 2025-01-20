@@ -83,6 +83,7 @@
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2554-minimum-total-distance-traveled](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2554-minimum-total-distance-traveled) |
+| [2685-first-completely-painted-row-or-column](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2685-first-completely-painted-row-or-column) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -128,6 +129,7 @@
 | [0542-01-matrix](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0733-flood-fill) |
 | [1073-number-of-enclaves](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1073-number-of-enclaves) |
+| [2685-first-completely-painted-row-or-column](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2685-first-completely-painted-row-or-column) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Binary Search
 |  |
@@ -177,6 +179,7 @@
 | [2300-construct-string-with-repeat-limit](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2300-construct-string-with-repeat-limit) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2685-first-completely-painted-row-or-column](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2685-first-completely-painted-row-or-column) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
