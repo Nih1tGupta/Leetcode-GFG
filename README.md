@@ -318,6 +318,7 @@
 | [0662-maximum-width-of-binary-tree](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0801-is-graph-bipartite) |
+| [0820-find-eventual-safe-states](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0820-find-eventual-safe-states) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1073-number-of-enclaves) |
@@ -333,6 +334,7 @@
 | [0662-maximum-width-of-binary-tree](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0801-is-graph-bipartite) |
+| [0820-find-eventual-safe-states](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0820-find-eventual-safe-states) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1073-number-of-enclaves) |
@@ -346,6 +348,7 @@
 |  |
 | ------- |
 | [0801-is-graph-bipartite](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0801-is-graph-bipartite) |
+| [0820-find-eventual-safe-states](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0820-find-eventual-safe-states) |
 ## Backtracking
 |  |
 | ------- |
@@ -393,4 +396,8 @@
 | [0662-maximum-width-of-binary-tree](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0662-maximum-width-of-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+## Topological Sort
+|  |
+| ------- |
+| [0820-find-eventual-safe-states](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0820-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
