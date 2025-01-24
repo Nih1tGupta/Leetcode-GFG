@@ -66,6 +66,7 @@
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0952-word-subsets](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0952-word-subsets) |
 | [1073-number-of-enclaves](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1073-number-of-enclaves) |
+| [1396-count-servers-that-communicate](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1396-count-servers-that-communicate) |
 | [1524-string-matching-in-an-array](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1524-string-matching-in-an-array) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1646-kth-missing-positive-number](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1646-kth-missing-positive-number) |
@@ -133,6 +134,7 @@
 | [0542-01-matrix](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0733-flood-fill) |
 | [1073-number-of-enclaves](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1073-number-of-enclaves) |
+| [1396-count-servers-that-communicate](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1396-count-servers-that-communicate) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2685-first-completely-painted-row-or-column) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Binary Search
@@ -197,6 +199,7 @@
 ## Counting
 |  |
 | ------- |
+| [1396-count-servers-that-communicate](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1502-construct-k-palindrome-strings) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2300-construct-string-with-repeat-limit) |
@@ -322,6 +325,7 @@
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1073-number-of-enclaves) |
+| [1396-count-servers-that-communicate](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1396-count-servers-that-communicate) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -338,12 +342,14 @@
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1073-number-of-enclaves) |
+| [1396-count-servers-that-communicate](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1396-count-servers-that-communicate) |
 ## Union Find
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0130-surrounded-regions) |
 | [0801-is-graph-bipartite](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1073-number-of-enclaves) |
+| [1396-count-servers-that-communicate](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1396-count-servers-that-communicate) |
 ## Graph
 |  |
 | ------- |
