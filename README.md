@@ -57,6 +57,7 @@
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0046-permutations](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0046-permutations) |
+| [0055-jump-game](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0055-jump-game) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0084-largest-rectangle-in-histogram) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -122,6 +123,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0055-jump-game) |
 | [0605-can-place-flowers](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0605-can-place-flowers) |
 | [0630-course-schedule-iii](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0630-course-schedule-iii) |
 | [0678-valid-parenthesis-string](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0678-valid-parenthesis-string) |
@@ -136,6 +138,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0055-jump-game) |
 | [0115-distinct-subsequences](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0115-distinct-subsequences) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0494-target-sum](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0494-target-sum) |
