@@ -45,6 +45,7 @@
 | [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3447-clear-digits](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3447-clear-digits) |
 | [3451-string-compression-iii](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3451-string-compression-iii) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Trie
@@ -300,6 +301,7 @@
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [3447-clear-digits](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3447-clear-digits) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -337,6 +339,7 @@
 | [2232-adding-spaces-to-a-string](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2232-adding-spaces-to-a-string) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [3447-clear-digits](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3447-clear-digits) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Ordered Set
 |  |
