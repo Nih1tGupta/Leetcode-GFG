@@ -126,6 +126,7 @@
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
+| [3748-sort-matrix-by-diagonals](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3748-sort-matrix-by-diagonals) |
 | [3760-assign-elements-to-groups-with-constraints](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3760-assign-elements-to-groups-with-constraints) |
 ## Greedy
 |  |
@@ -170,6 +171,7 @@
 | [2685-first-completely-painted-row-or-column](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2685-first-completely-painted-row-or-column) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [3748-sort-matrix-by-diagonals](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3748-sort-matrix-by-diagonals) |
 ## Binary Search
 |  |
 | ------- |
@@ -203,6 +205,7 @@
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3291-find-if-array-can-be-sorted) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
+| [3748-sort-matrix-by-diagonals](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3748-sort-matrix-by-diagonals) |
 ## String Matching
 |  |
 | ------- |
