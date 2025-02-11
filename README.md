@@ -49,6 +49,7 @@
 | [3447-clear-digits](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3447-clear-digits) |
 | [3451-string-compression-iii](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3451-string-compression-iii) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Trie
 |  |
 | ------- |
@@ -234,6 +235,7 @@
 | [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Counting
 |  |
 | ------- |
@@ -248,6 +250,7 @@
 | [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -280,6 +283,7 @@
 | [2448-count-number-of-bad-pairs](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2448-count-number-of-bad-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2716-prime-subtraction-operation) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Number Theory
 |  |
 | ------- |
