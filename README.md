@@ -42,6 +42,7 @@
 | [2292-counting-words-with-a-given-prefix](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2300-construct-string-with-repeat-limit) |
 | [2465-shifting-letters-ii](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2465-shifting-letters-ii) |
+| [2470-removing-stars-from-a-string](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2470-removing-stars-from-a-string) |
 | [2580-circular-sentence](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2580-circular-sentence) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
@@ -347,6 +348,7 @@
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [2470-removing-stars-from-a-string](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2470-removing-stars-from-a-string) |
 | [3447-clear-digits](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3447-clear-digits) |
 ## Monotonic Stack
 |  |
@@ -387,6 +389,7 @@
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2232-adding-spaces-to-a-string](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2232-adding-spaces-to-a-string) |
 | [2428-equal-row-and-column-pairs](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2428-equal-row-and-column-pairs) |
+| [2470-removing-stars-from-a-string](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2470-removing-stars-from-a-string) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
