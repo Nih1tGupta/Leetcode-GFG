@@ -323,6 +323,7 @@
 | [1477-product-of-the-last-k-numbers](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1477-product-of-the-last-k-numbers) |
 | [2448-count-number-of-bad-pairs](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2448-count-number-of-bad-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2716-prime-subtraction-operation) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Number Theory
@@ -476,6 +477,7 @@
 | ------- |
 | [0046-permutations](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0046-permutations) |
 | [0494-target-sum](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0494-target-sum) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Linked List
 |  |
 | ------- |
