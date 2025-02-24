@@ -1,20 +1,20 @@
 class Solution {
 public:
-    bool solve(string &temp,unordered_set<string>&st,int n){
-        if(temp.size()==n){
-            if(st.find(temp)==st.end()){return 1;}
-            return false;
-        }
-        for(int i=0;i<=1;i++){
-            temp.push_back(i+'0');
-            if(solve(temp,st,n))return true;
-            temp.pop_back();
+    // bool solve(string &temp,unordered_set<string>&st,int n){
+    //     if(temp.size()==n){
+    //         if(st.find(temp)==st.end()){return 1;}
+    //         return false;
+    //     }
+    //     for(int i=0;i<=1;i++){
+    //         temp.push_back(i+'0');
+    //         if(solve(temp,st,n))return true;
+    //         temp.pop_back();
         
-        }
-        return 0;
-    }
+    //     }
+    //     return 0;
+    // }
     string findDifferentBinaryString(vector<string>& nums) {   
-        // Approach 1: SET + BIT 
+        // Approach 1: SET + BIT    O(N^2) : O(N)
         // string s;
         // unordered_set<int>st;
         // for(string &num:nums){
@@ -29,14 +29,23 @@ public:
         //     }
         // }
         // return temp.substr(16-n,n);
-        // APPROACH 2:BACKTRACK
-         unordered_set<string>st;
-        for(auto &num:nums){
-            st.insert(num);
+        // APPROACH 2:BACKTRACK O(2^N):O(N)
+
+        //  unordered_set<string>st;
+        // for(auto &num:nums){
+        //     st.insert(num);
+        // }
+        // int n=nums.size();
+        // string temp="";
+        // solve(temp,st,n);
+        // return temp;
+        
+        // Appoach 3 : XOR BIT CATORS : O(N) : O(1)
+        string s="";
+        for(int i=0;i<nums.size();i++){
+            char ch=nums[i][i];
+            s+=(ch=='0')?"1":"0";
         }
-        int n=nums.size();
-        string temp="";
-        solve(temp,st,n);
-        return temp;
+        return s;
     }
 };
