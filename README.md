@@ -150,6 +150,7 @@
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3748-sort-matrix-by-diagonals) |
 | [3760-assign-elements-to-groups-with-constraints](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3760-assign-elements-to-groups-with-constraints) |
+| [3764-maximum-sum-with-at-most-k-elements](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 ## Greedy
 |  |
 | ------- |
@@ -167,6 +168,7 @@
 | [2456-construct-smallest-number-from-di-string](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2716-prime-subtraction-operation](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2716-prime-subtraction-operation) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
+| [3764-maximum-sum-with-at-most-k-elements](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -198,6 +200,7 @@
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3748-sort-matrix-by-diagonals) |
+| [3764-maximum-sum-with-at-most-k-elements](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -236,6 +239,7 @@
 | [3291-find-if-array-can-be-sorted](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3291-find-if-array-can-be-sorted) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3748-sort-matrix-by-diagonals) |
+| [3764-maximum-sum-with-at-most-k-elements](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 ## String Matching
 |  |
 | ------- |
@@ -397,6 +401,7 @@
 | [2868-continuous-subarrays](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2868-continuous-subarrays) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3764-maximum-sum-with-at-most-k-elements](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 ## Monotonic Queue
 |  |
 | ------- |
