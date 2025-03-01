@@ -149,6 +149,7 @@
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3427-special-array-ii](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3427-special-array-ii) |
 | [3429-special-array-i](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3429-special-array-i) |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
@@ -490,6 +491,7 @@
 | [1558-course-schedule-iv](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1558-course-schedule-iv) |
 | [1876-map-of-highest-peak](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1876-map-of-highest-peak) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Union Find
 |  |
 | ------- |
@@ -505,6 +507,7 @@
 | [0801-is-graph-bipartite](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0820-find-eventual-safe-states) |
 | [1558-course-schedule-iv](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1558-course-schedule-iv) |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Backtracking
 |  |
 | ------- |
