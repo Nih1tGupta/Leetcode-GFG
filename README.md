@@ -120,6 +120,7 @@
 | [2179-most-beautiful-item-for-each-query](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2232-adding-spaces-to-a-string](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2232-adding-spaces-to-a-string) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2428-equal-row-and-column-pairs](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2428-equal-row-and-column-pairs) |
@@ -368,6 +369,7 @@
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2232-adding-spaces-to-a-string](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2232-adding-spaces-to-a-string) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2551-apply-operations-to-an-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -428,6 +430,7 @@
 | [0735-asteroid-collision](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0735-asteroid-collision) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2232-adding-spaces-to-a-string](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2232-adding-spaces-to-a-string) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2428-equal-row-and-column-pairs](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2428-equal-row-and-column-pairs) |
 | [2470-removing-stars-from-a-string](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2470-removing-stars-from-a-string) |
 | [2551-apply-operations-to-an-array](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2551-apply-operations-to-an-array) |
