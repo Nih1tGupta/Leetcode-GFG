@@ -85,6 +85,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0209-minimum-size-subarray-sum) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0304-range-sum-query-2d-immutable) |
 | [0407-trapping-rain-water-ii](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0407-trapping-rain-water-ii) |
+| [0410-split-array-largest-sum](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0410-split-array-largest-sum) |
 | [0494-target-sum](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0542-01-matrix) |
 | [0605-can-place-flowers](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0605-can-place-flowers) |
@@ -174,6 +175,7 @@
 | ------- |
 | [0045-jump-game-ii](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0055-jump-game) |
+| [0410-split-array-largest-sum](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0410-split-array-largest-sum) |
 | [0605-can-place-flowers](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0605-can-place-flowers) |
 | [0630-course-schedule-iii](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0630-course-schedule-iii) |
 | [0678-valid-parenthesis-string](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0678-valid-parenthesis-string) |
@@ -195,6 +197,7 @@
 | [0055-jump-game](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0055-jump-game) |
 | [0115-distinct-subsequences](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0115-distinct-subsequences) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0410-split-array-largest-sum](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0410-split-array-largest-sum) |
 | [0494-target-sum](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0678-valid-parenthesis-string) |
@@ -231,6 +234,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0162-find-peak-element](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0209-minimum-size-subarray-sum) |
+| [0410-split-array-largest-sum](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0410-split-array-largest-sum) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1046-max-consecutive-ones-iii) |
 | [1646-kth-missing-positive-number](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1646-kth-missing-positive-number) |
@@ -341,6 +345,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0209-minimum-size-subarray-sum) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0304-range-sum-query-2d-immutable) |
+| [0410-split-array-largest-sum](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0410-split-array-largest-sum) |
 | [0878-shifting-letters](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0878-shifting-letters) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1046-max-consecutive-ones-iii) |
