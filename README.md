@@ -83,6 +83,7 @@
 | [0162-find-peak-element](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0162-find-peak-element) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0209-minimum-size-subarray-sum](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0209-minimum-size-subarray-sum) |
+| [0304-range-sum-query-2d-immutable](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0304-range-sum-query-2d-immutable) |
 | [0407-trapping-rain-water-ii](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0407-trapping-rain-water-ii) |
 | [0494-target-sum](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0542-01-matrix) |
@@ -210,6 +211,7 @@
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0130-surrounded-regions) |
+| [0304-range-sum-query-2d-immutable](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0304-range-sum-query-2d-immutable) |
 | [0407-trapping-rain-water-ii](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0407-trapping-rain-water-ii) |
 | [0542-01-matrix](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0733-flood-fill) |
@@ -338,6 +340,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0209-minimum-size-subarray-sum) |
+| [0304-range-sum-query-2d-immutable](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0304-range-sum-query-2d-immutable) |
 | [0878-shifting-letters](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0878-shifting-letters) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1046-max-consecutive-ones-iii) |
@@ -576,6 +579,7 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0146-lru-cache) |
+| [0304-range-sum-query-2d-immutable](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0304-range-sum-query-2d-immutable) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1477-product-of-the-last-k-numbers) |
 | [2434-design-a-number-container-system](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2434-design-a-number-container-system) |
