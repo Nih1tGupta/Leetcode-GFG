@@ -1,42 +1,38 @@
 class Solution {
 public:
-    bool dfs(int node, vector<vector<int>>& adj, vector<bool>& visit,
-             vector<bool>& inStack) {
-        // If the node is already in the stack, we have a cycle.
-        if (inStack[node]) {
-            return true;
-        }
-        if (visit[node]) {
-            return false;
-        }
-        // Mark the current node as visited and part of current recursion stack.
-        visit[node] = true;
-        inStack[node] = true;
-        for (auto neighbor : adj[node]) {
-            if (dfs(neighbor, adj, visit, inStack)) {
-                return true;
-            }
-        }
-        // Remove the node from the stack.
-        inStack[node] = false;
-        return false;
-    }
-
     vector<int> eventualSafeNodes(vector<vector<int>>& graph) {
-        int n = graph.size();
-        vector<bool> visit(n), inStack(n);
-
-        for (int i = 0; i < n; i++) {
-            dfs(i, graph, visit, inStack);
+       int V = graph.size();
+        int indegree[V];
+        for(int i=0;i<V;i++){
+            indegree[i]=0;
         }
-
+        vector<int> adjRev[V];
+        for(int i=0;i<V;i++){
+            for(auto nodes : graph[i]){
+                adjRev[nodes].push_back(i);
+                indegree[i]++;
+            }
+        }
         vector<int> safeNodes;
-        for (int i = 0; i < n; i++) {
-            if (!inStack[i]) {
-                safeNodes.push_back(i);
+        queue<int> q;
+        for(int i=0;i<V;i++){
+            if(indegree[i]==0) {
+                q.push(i);
+            }
+        }
+        while(!q.empty()){
+            int node=q.front();
+            q.pop();
+            safeNodes.push_back(node);
+            for(auto it:adjRev[node]){
+                indegree[it]--;
+                if(indegree[it]==0){
+                    q.push(it);
+                }
             }
         }
 
+        sort(safeNodes.begin(),safeNodes.end());
         return safeNodes;
     }
 };
