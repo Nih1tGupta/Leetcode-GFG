@@ -1,27 +1,36 @@
 class Solution {
 public:
     string decodeString(string s) {
-        stack<int>numst;
-        stack<string>strst;
-        int currno=0;string  currst="";
-        for(auto c:s){
-            if(c=='['){
-                numst.push(currno);
-                strst.push(currst);
-                currno=0;currst="";
+        stack<string>st;
+        for(int i=0;i<s.length();i++){
+            if(s[i]==']'){
+                string tempans="";
+                while(!st.empty() and st.top()!="["){
+                    tempans=st.top()+tempans;
+                    st.pop();
+                }
+                st.pop();
+                string times="";
+                while(!st.empty() and isdigit(st.top()[0])){
+                    times=st.top()+times;
+                    st.pop();
+                }
+                int no_of_times=stoi(times);
+                string back="";
+                while(no_of_times--){
+                    back=tempans+back;
+                }
+                st.push(back);
             }
-            
-            else if(c==']'){
-                int num=numst.top();numst.pop();
-                string output="";
-                while(num--){output+=currst;}
-                string prev=strst.top();strst.pop();
-                currst=prev+output;
+            else{
+                st.push(string(1,s[i]));
             }
-            
-            else if(isdigit(c)){currno=currno*10+c-'0';}
-            else{currst+=c;}  
         }
-        return currst;
+        string anss="";
+        while(!st.empty()){
+            anss=st.top()+anss;
+            st.pop();
+        }
+        return anss;
     }
 };
