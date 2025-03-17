@@ -11,11 +11,18 @@ public:
         // }
         // return (c==n/2);
         // O(N^2): O(N)
-        unordered_map<int,int>mp;
-        for(auto it:arr){mp[it]++;}
-        for(auto it:mp){
-            if(it.second%2){return false;}
+        // unordered_map<int,int>mp;
+        // for(auto it:arr){mp[it]++;}
+        // for(auto it:mp){
+        //     if(it.second%2){return false;}
+        // }
+        // return true;
+        // O(N):O(N)
+        int xorr=0;
+        sort(arr.begin(),arr.end());
+        for(int i=1;i<n;i+=2){
+            if(arr[i]^arr[i-1])return 0;
         }
-        return true;
+        return 1;
     }
 };
