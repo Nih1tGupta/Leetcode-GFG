@@ -10,7 +10,7 @@ public:
     //      }
     //      return (c==sz);
     // }
-    vector<string> findAllRecipes(vector<string>& recipes, vector<vector<string>>& ing, vector<string>& supplies) {
+    vector<string> findAllRecipes(vector<string>& recipes, vector<vector<string>>& ingredients, vector<string>& supplies) {
         // vector<string>v;
         // unordered_set<string>st;
         // for(int i=0;i<recipes.size();i++){
@@ -30,32 +30,27 @@ public:
         //     }
         // }
         // return v;
-        unordered_set<string>s(supplies.begin(),supplies.end());
-        int sz=recipes.size();
-        vector<bool>vis(sz,0);
-        vector<string>v;
-        int curr=0;
-        while(sz--){
-            for(int i=0;i<recipes.size();i++){
-                if(vis[i])continue;
-                auto material=ing[i];
-                int c=0;
-                vector<string>t;
-                for(auto it:material){
-                    if(s.find(it)!=s.end()){ c++;}
-                    else{t.push_back(it);}
+        int n = recipes.size();
+        vector<string> ans;
+        unordered_set<string> st(supplies.begin(), supplies.end());
+        int cnt = n;
+        while (cnt--) {
+            for (int i = 0; i < n; i++) {
+                bool flag = true;
+                if (st.find(recipes[i]) != st.end())
+                    continue;
+                for (int j = 0; j < ingredients[i].size(); j++) {
+                    if (st.find(ingredients[i][j]) == st.end()) {
+                        flag = false;
+                        break;
+                    }
                 }
-                if(c==material.size()){
-                    s.insert(recipes[i]);
-                    v.push_back(recipes[i]);
-                    vis[i]=true;
-                    curr++;
-                }
-                else{
-                    ing[i]=t;
+                if (flag) {
+                    ans.push_back(recipes[i]);
+                    st.insert(recipes[i]);
                 }
             }
         }
-        return v;
+        return ans;
     }
 };
