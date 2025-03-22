@@ -552,6 +552,7 @@
 | [1396-count-servers-that-communicate](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1396-count-servers-that-communicate) |
 | [1558-course-schedule-iv](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1558-course-schedule-iv) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [2793-count-the-number-of-complete-components](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2793-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -576,6 +577,7 @@
 | [1558-course-schedule-iv](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1558-course-schedule-iv) |
 | [1876-map-of-highest-peak](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1876-map-of-highest-peak) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [2793-count-the-number-of-complete-components](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2793-count-the-number-of-complete-components) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Union Find
 |  |
@@ -586,6 +588,7 @@
 | [1073-number-of-enclaves](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1073-number-of-enclaves) |
 | [1396-count-servers-that-communicate](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1396-count-servers-that-communicate) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [2793-count-the-number-of-complete-components](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Graph
 |  |
@@ -597,6 +600,7 @@
 | [0820-find-eventual-safe-states](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0820-find-eventual-safe-states) |
 | [1558-course-schedule-iv](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1558-course-schedule-iv) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2793-count-the-number-of-complete-components](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3514-shortest-distance-after-road-addition-queries-ii](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3514-shortest-distance-after-road-addition-queries-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
