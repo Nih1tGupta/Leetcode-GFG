@@ -142,6 +142,7 @@
 | [2265-partition-array-according-to-given-pivot](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2308-divide-array-into-equal-pairs) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2428-equal-row-and-column-pairs](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2428-equal-row-and-column-pairs) |
 | [2448-count-number-of-bad-pairs](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2448-count-number-of-bad-pairs) |
@@ -427,6 +428,7 @@
 | [1477-product-of-the-last-k-numbers](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2448-count-number-of-bad-pairs](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2448-count-number-of-bad-pairs) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2649-count-total-number-of-colored-cells) |
 | [2716-prime-subtraction-operation](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2716-prime-subtraction-operation) |
@@ -508,6 +510,7 @@
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2232-adding-spaces-to-a-string](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2232-adding-spaces-to-a-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2428-equal-row-and-column-pairs](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2428-equal-row-and-column-pairs) |
 | [2470-removing-stars-from-a-string](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2470-removing-stars-from-a-string) |
 | [2551-apply-operations-to-an-array](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2551-apply-operations-to-an-array) |
@@ -703,4 +706,8 @@
 |  |
 | ------- |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+## Combinatorics
+|  |
+| ------- |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2324-find-triangular-sum-of-an-array) |
 <!---LeetCode Topics End-->
