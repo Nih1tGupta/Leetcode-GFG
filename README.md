@@ -179,6 +179,7 @@
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3427-special-array-ii](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3427-special-array-ii) |
 | [3429-special-array-i](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3429-special-array-i) |
+| [3430-count-days-without-meetings](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3430-count-days-without-meetings) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3483-alternating-groups-ii) |
 | [3514-shortest-distance-after-road-addition-queries-ii](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3514-shortest-distance-after-road-addition-queries-ii) |
@@ -298,6 +299,7 @@
 | [2699-count-the-number-of-fair-pairs](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3291-find-if-array-can-be-sorted) |
+| [3430-count-days-without-meetings](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3430-count-days-without-meetings) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3748-sort-matrix-by-diagonals) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3764-maximum-sum-with-at-most-k-elements) |
