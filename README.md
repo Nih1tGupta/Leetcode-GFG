@@ -137,6 +137,7 @@
 | [1927-maximum-ascending-subarray-sum](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1940-maximum-xor-for-each-query](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1940-maximum-xor-for-each-query) |
 | [2107-find-unique-binary-string](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2107-find-unique-binary-string) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2164-two-best-non-overlapping-events](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
@@ -253,6 +254,7 @@
 | [1073-number-of-enclaves](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1073-number-of-enclaves) |
 | [1396-count-servers-that-communicate](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1396-count-servers-that-communicate) |
 | [1876-map-of-highest-peak](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1876-map-of-highest-peak) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2428-equal-row-and-column-pairs](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2428-equal-row-and-column-pairs) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2685-first-completely-painted-row-or-column) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -295,6 +297,7 @@
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2164-two-best-non-overlapping-events](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -436,6 +439,7 @@
 | [1477-product-of-the-last-k-numbers](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2448-count-number-of-bad-pairs](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2448-count-number-of-bad-pairs) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2649-count-total-number-of-colored-cells) |
