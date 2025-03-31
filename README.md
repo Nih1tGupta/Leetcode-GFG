@@ -162,6 +162,7 @@
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2665-minimum-time-to-repair-cars) |
+| [2681-put-marbles-in-bags](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2681-put-marbles-in-bags) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2685-first-completely-painted-row-or-column) |
 | [2690-house-robber-iv](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2690-house-robber-iv) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -219,6 +220,7 @@
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2300-construct-string-with-repeat-limit) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2456-construct-smallest-number-from-di-string) |
+| [2681-put-marbles-in-bags](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2681-put-marbles-in-bags) |
 | [2716-prime-subtraction-operation](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2716-prime-subtraction-operation) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3001-apply-operations-to-maximize-score) |
 | [3514-shortest-distance-after-road-addition-queries-ii](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3514-shortest-distance-after-road-addition-queries-ii) |
@@ -311,6 +313,7 @@
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2554-minimum-total-distance-traveled](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2554-minimum-total-distance-traveled) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+| [2681-put-marbles-in-bags](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2681-put-marbles-in-bags) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -526,6 +529,7 @@
 | [2434-design-a-number-container-system](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+| [2681-put-marbles-in-bags](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2681-put-marbles-in-bags) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2868-continuous-subarrays](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2868-continuous-subarrays) |
