@@ -2,51 +2,65 @@
 #include <bits/stdc++.h>
 using namespace std;
 
+
 // } Driver Code Ends
+
 class Solution {
   public:
-    // Function to return a list containing the DFS traversal of the graph.
-    void dfs(int i,vector<int> adj[],vector<int>&lis,int vis[]){
-        vis[i]=1;
-        lis.push_back(i);
-        for(auto it:adj[i]){
-            if(!vis[it]){dfs(it,adj,lis,vis);}
+    void solve(vector<vector<int>>& adj,vector<int>&v,int node,vector<int>&vis){
+        vis[node]=1;
+        v.push_back(node);
+        for(auto it:adj[node]){
+            if(vis[it]==0){
+                solve(adj,v,it,vis);
+            }
         }
     }
-    vector<int> dfsOfGraph(int V, vector<int> adj[]) {
+    vector<int> dfs(vector<vector<int>>& adj) {
         // Code here
-        vector<int>lis;
-        int vis[V]={0};
-        dfs(0,adj,lis,vis);
-        return lis;
+        vector<int>v;
+        int n=adj.size();
+        vector<int>vis(n,0);
+        solve(adj,v,0,vis);
+        return v;
     }
 };
 
+
 //{ Driver Code Starts.
+
 int main() {
     int tc;
     cin >> tc;
+    cin.ignore();
     while (tc--) {
-        int V, E;
-        cin >> V >> E;
+        int V;
+        cin >> V;
+        cin.ignore();
+        vector<vector<int>> adj(
+            V); // Use vector of vectors instead of array of vectors.
 
-        vector<int> adj[V];
-
-        for (int i = 0; i < E; i++) {
-            int u, v;
-            cin >> u >> v;
-            adj[u].push_back(v);
-            adj[v].push_back(u);
+        for (int i = 0; i < V; i++) {
+            string input;
+            getline(cin, input);
+            int num;
+            vector<int> node;
+            stringstream ss(input);
+            while (ss >> num) {
+                node.push_back(num);
+            }
+            adj[i] = node;
         }
-        // string s1;
-        // cin>>s1;
+
         Solution obj;
-        vector<int> ans = obj.dfsOfGraph(V, adj);
+        vector<int> ans = obj.dfs(adj);
         for (int i = 0; i < ans.size(); i++) {
             cout << ans[i] << " ";
         }
         cout << endl;
+        cout << "~" << endl;
     }
     return 0;
 }
+
 // } Driver Code Ends
