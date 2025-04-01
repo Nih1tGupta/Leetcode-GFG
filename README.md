@@ -27,6 +27,7 @@
 | [0012-integer-to-roman](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0014-longest-common-prefix) |
 | [0115-distinct-subsequences](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0115-distinct-subsequences) |
+| [0131-palindrome-partitioning](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0131-palindrome-partitioning) |
 | [0394-decode-string](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0394-decode-string) |
 | [0678-valid-parenthesis-string](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0678-valid-parenthesis-string) |
 | [0768-partition-labels](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0768-partition-labels) |
@@ -235,6 +236,7 @@
 | [0115-distinct-subsequences](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0131-palindrome-partitioning](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0131-palindrome-partitioning) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0337-house-robber-iii](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0337-house-robber-iii) |
 | [0410-split-array-largest-sum](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0410-split-array-largest-sum) |
@@ -661,6 +663,7 @@
 | ------- |
 | [0039-combination-sum](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0046-permutations) |
+| [0131-palindrome-partitioning](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0131-palindrome-partitioning) |
 | [0494-target-sum](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0494-target-sum) |
 | [1022-unique-paths-iii](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1022-unique-paths-iii) |
 | [1160-letter-tile-possibilities](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1160-letter-tile-possibilities) |
