@@ -525,6 +525,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0023-merge-k-sorted-lists) |
 | [0407-trapping-rain-water-ii](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0407-trapping-rain-water-ii) |
 | [0630-course-schedule-iii](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0630-course-schedule-iii) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
@@ -677,6 +678,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0002-add-two-numbers) |
+| [0023-merge-k-sorted-lists](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0023-merge-k-sorted-lists) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0138-copy-list-with-random-pointer) |
 | [0146-lru-cache](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0146-lru-cache) |
@@ -745,6 +747,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0023-merge-k-sorted-lists) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 ## Data Stream
@@ -759,4 +762,8 @@
 |  |
 | ------- |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2324-find-triangular-sum-of-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
