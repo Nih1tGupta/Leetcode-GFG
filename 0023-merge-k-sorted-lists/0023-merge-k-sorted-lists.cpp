@@ -10,29 +10,31 @@
  */
 class Solution {
 public:
-    class cmp {
-     public:
-     bool operator()(ListNode* a, ListNode* b){
-         if(a->val > b->val)return true;
-         else return false;
-     }
- };
+    ListNode*mergeTwo(ListNode*a,ListNode* b){
+        if(!a)return b;
+        if(!b)return a;
+        if(a->val <=b->val){
+            a->next=mergeTwo(a->next,b);
+            return a;
+        }
+        else{
+            b->next=mergeTwo(a,b->next);
+            return b;
+        }
+        return nullptr;
+    }
+    ListNode*partition(vector<ListNode*>&lists,int st,int end){
+        // base
+        if(st==end)return lists[st];// single linked list
+        if(st>end)return nullptr;  //traversed the whole 
+        int mid= (st+end)/2;
+        ListNode* l1 = partition(lists,st,mid);
+        ListNode* l2 = partition(lists,mid+1,end);
+        return mergeTwo(l1,l2);
+    }
     ListNode* mergeKLists(vector<ListNode*>& lists) {
-        priority_queue<ListNode*,vector<ListNode*>,cmp>pq;
-        for(int i=0;i<lists.size();i++){
-            if(lists[i]!=nullptr){
-                pq.push(lists[i]);
-            }
-        }
-        ListNode*dummy= new ListNode(-1);
-        ListNode*tail=dummy;  //ptr hai dummy ka
-        while(pq.size()>0){
-            ListNode*front= pq.top();
-            tail->next=front;
-            tail=front;
-            pq.pop();
-            if(front->next){pq.push(front->next);}
-        }
-    return dummy->next;
+        int n=lists.size();
+        if(n==0)return nullptr;
+        return partition(lists,0,n-1);
     }
 };
