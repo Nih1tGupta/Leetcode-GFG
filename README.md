@@ -507,6 +507,7 @@
 | [0678-valid-parenthesis-string](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0735-asteroid-collision) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0780-max-chunks-to-make-sorted) |
+| [0937-online-stock-span](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0937-online-stock-span) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -520,6 +521,7 @@
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0084-largest-rectangle-in-histogram) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0780-max-chunks-to-make-sorted) |
+| [0937-online-stock-span](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0937-online-stock-span) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3001-apply-operations-to-maximize-score) |
@@ -708,6 +710,7 @@
 | [0146-lru-cache](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0146-lru-cache) |
 | [0295-find-median-from-data-stream](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0295-find-median-from-data-stream) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0304-range-sum-query-2d-immutable) |
+| [0937-online-stock-span](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0937-online-stock-span) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1477-product-of-the-last-k-numbers) |
 | [2434-design-a-number-container-system](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2434-design-a-number-container-system) |
@@ -768,6 +771,7 @@
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0295-find-median-from-data-stream) |
+| [0937-online-stock-span](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0937-online-stock-span) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1477-product-of-the-last-k-numbers) |
 ## Shortest Path
 |  |
