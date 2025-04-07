@@ -19,8 +19,15 @@ class Solution {
         return dp[i][t]=(nt or ta);
         
     }
+//     The recursive solution involves changing two parameters: the current index 
+//     in the array (n) and the current target sum (sum). We need to track both parameters,
+//     so we create a 2D array of size (n+1) x (sum+1) because the value of n will be in
+//     the range [0, n] and sum will be in the range [0, sum].
+// We initialize the 2D array with -1 to indicate that no subproblems have been computed yet.
+// We check if the value at memo[n][sum] is -1. If it is, we proceed to compute the result.
+// otherwise, we return the stored result.
     bool isSubsetSum(vector<int>& arr, int sum) {
-       int n=arr.size();
+      int n=arr.size();
         vector<vector<int>>dp(n,vector<int>(sum+1,-1));
         return f(n-1,sum,arr,dp);
     }
