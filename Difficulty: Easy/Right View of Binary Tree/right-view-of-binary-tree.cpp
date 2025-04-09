@@ -22,6 +22,7 @@ Node* newNode(int val)
 
 
 // } Driver Code Ends
+
 /* A binary tree node has data, pointer to left child
    and a pointer to right child 
 struct Node
@@ -40,21 +41,26 @@ struct Node
 class Solution
 {
     public:
-    void solve(Node* root,vector<int>&v,int l){
-    if(root==nullptr)return;
-    if(l==v.size())v.push_back(root->data);
-     solve(root->right,v,l+1);
-    solve(root->left,v,l+1);
-   
-}
-vector<int> rightView(Node *root)
-{
-   // Your code here
-   vector<int>v;
-    solve(root,v,0);
-    return v;
-}
+    //Function to return list containing elements of right view of binary tree.
+    vector<int> rightView(Node *root)
+    {
+        vector<int>v;
+       if(root==nullptr)return v;
+       queue<Node*>q;
+       q.push(root);
+       while(!q.empty()){
+           int sz=q.size();
+           for(int i=0;i<sz;i++){
+               Node*curr=q.front();q.pop();
+               if(i==sz-1){v.push_back(curr->data);}
+               if(curr->left){q.push(curr->left);}
+               if(curr->right){q.push(curr->right);}
+           }
+       }
+       return v;
+    }
 };
+
 
 
 
@@ -142,7 +148,9 @@ int main() {
             cout<<x<<" ";
         }
         cout << endl;
-    }
+    
+cout << "~" << "\n";
+}
     return 0;
 }
 
