@@ -1,6 +1,6 @@
 class Solution {
 public:
- long long lower_bound(vector<int>& nums, int low, int high, int element) {
+    long long lower_bound(vector<int>& nums, int low, int high, int element) {
         while (low <= high) {
             int mid = low + ((high - low) / 2);
             if (nums[mid] >= element) {
@@ -19,7 +19,5 @@ public:
             ans += 1LL * (high - low);
         }
         return ans;
-    
-       
     }
 };
