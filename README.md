@@ -111,6 +111,7 @@
 | [0733-flood-fill](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0735-asteroid-collision) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0780-max-chunks-to-make-sorted) |
+| [0797-rabbits-in-forest](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0797-rabbits-in-forest) |
 | [0878-shifting-letters](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0878-shifting-letters) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -228,6 +229,7 @@
 | [0678-valid-parenthesis-string](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0678-valid-parenthesis-string) |
 | [0768-partition-labels](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0768-partition-labels) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0780-max-chunks-to-make-sorted) |
+| [0797-rabbits-in-forest](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0797-rabbits-in-forest) |
 | [1502-construct-k-palindrome-strings](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1502-construct-k-palindrome-strings) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1917-maximum-average-pass-ratio](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1917-maximum-average-pass-ratio) |
@@ -364,6 +366,7 @@
 | [0138-copy-list-with-random-pointer](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0138-copy-list-with-random-pointer) |
 | [0146-lru-cache](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0146-lru-cache) |
 | [0768-partition-labels](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0768-partition-labels) |
+| [0797-rabbits-in-forest](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0797-rabbits-in-forest) |
 | [0889-buddy-strings](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0889-buddy-strings) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -482,6 +485,7 @@
 | [0002-add-two-numbers](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0012-integer-to-roman) |
 | [0368-largest-divisible-subset](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0368-largest-divisible-subset) |
+| [0797-rabbits-in-forest](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0797-rabbits-in-forest) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
