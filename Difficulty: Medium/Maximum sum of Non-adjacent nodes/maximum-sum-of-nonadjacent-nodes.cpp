@@ -1,97 +1,95 @@
 //{ Driver Code Starts
-//Initial Template for C++
+// Initial Template for C++
 
-#include<bits/stdc++.h> 
-using namespace std; 
+#include <bits/stdc++.h>
+using namespace std;
 
 // Tree Node
-struct Node
-{
+struct Node {
     int data;
     Node* left;
     Node* right;
 };
 
 // Utility function to create a new Tree Node
-Node* newNode(int val)
-{
+Node* newNode(int val) {
     Node* temp = new Node;
     temp->data = val;
     temp->left = NULL;
     temp->right = NULL;
-    
+
     return temp;
 }
 
 // Function to Build Tree
-Node* buildTree(string str)
-{   
+Node* buildTree(string str) {
     // Corner Case
-    if(str.length() == 0 || str[0] == 'N')
-            return NULL;
-    
-    // Creating vector of strings from input 
+    if (str.length() == 0 || str[0] == 'N')
+        return NULL;
+
+    // Creating vector of strings from input
     // string after spliting by space
     vector<string> ip;
-    
+
     istringstream iss(str);
-    for(string str; iss >> str; )
+    for (string str; iss >> str;)
         ip.push_back(str);
-        
+
     // Create the root of the tree
     Node* root = newNode(stoi(ip[0]));
-        
+
     // Push the root to the queue
     queue<Node*> queue;
     queue.push(root);
-        
+
     // Starting from the second element
     int i = 1;
-    while(!queue.empty() && i < ip.size()) {
-            
+    while (!queue.empty() && i < ip.size()) {
+
         // Get and remove the front of the queue
         Node* currNode = queue.front();
         queue.pop();
-            
+
         // Get the current node's value from the string
         string currVal = ip[i];
-            
+
         // If the left child is not null
-        if(currVal != "N") {
-                
+        if (currVal != "N") {
+
             // Create the left child for the current node
             currNode->left = newNode(stoi(currVal));
-                
+
             // Push it to the queue
             queue.push(currNode->left);
         }
-            
+
         // For the right child
         i++;
-        if(i >= ip.size())
+        if (i >= ip.size())
             break;
         currVal = ip[i];
-            
+
         // If the right child is not null
-        if(currVal != "N") {
-                
+        if (currVal != "N") {
+
             // Create the right child for the current node
             currNode->right = newNode(stoi(currVal));
-                
+
             // Push it to the queue
             queue.push(currNode->right);
         }
         i++;
     }
-    
+
     return root;
 }
 
 
 // } Driver Code Ends
-//User function Template for C++
 
-//Node Structure
+// User function Template for C++
+
+// Node Structure
 /*
 struct Node
 {
@@ -101,45 +99,44 @@ struct Node
 };
 */
 
-class Solution{
+class Solution {
   public:
-    //Function to return the maximum sum of non-adjacent nodes.
-    pair<int,int>solve(Node*root){
-        if(root==nullptr){
-            pair<int,int>v=make_pair(0,0);
-            return v;
-        }
-        pair<int,int>l=solve(root->left);
-        pair<int,int>r=solve(root->right);
-        pair<int,int>res;
-        // include karo current ko
-        res.first=root->data+l.second+r.second;
-        res.second=max(l.first,l.second)+max(r.first,r.second);
-        return res;
+    // Function to return the maximum sum of non-adjacent nodes.
+   pair<int,int> dfs(Node* root){
+        if(!root)return {0,0};
+        auto l=dfs(root->left);
+        auto r=dfs(root->right);
+        //take/not_take
+        return {root->data+l.second+r.second,max({l.first+r.first,l.second+r.second,
+            l.first+r.second,r.first+l.second
+        })};
     }
-    int getMaxSum(Node *root) 
-    {
-        // Add your code here
-        pair<int,int>ans=solve(root);
+    int getMaxSum(Node *root) {
+        // code here
+        auto ans=dfs(root);
         return max(ans.first,ans.second);
+        // code here
+        
     }
 };
 
+
 //{ Driver Code Starts.
 
-// Driver code 
-int main()
-{
-  int t;
-  scanf("%d ",&t);
-  while (t--)
-  {
+// Driver code
+int main() {
+    int t;
+    scanf("%d ", &t);
+    while (t--) {
         string s;
-		getline(cin,s);
-		Node* root = buildTree(s);
-		Solution ob;
-        cout<<ob.getMaxSum(root)<<endl;
-  }
-  return 0;
+        getline(cin, s);
+        Node* root = buildTree(s);
+        Solution ob;
+        cout << ob.getMaxSum(root) << endl;
+
+        cout << "~"
+             << "\n";
+    }
+    return 0;
 }
 // } Driver Code Ends
