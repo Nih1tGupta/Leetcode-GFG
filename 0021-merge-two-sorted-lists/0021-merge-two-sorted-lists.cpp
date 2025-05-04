@@ -10,43 +10,23 @@
  */
 class Solution {
 public:
-   
-ListNode*sol(ListNode*first,ListNode*second){
-       ListNode*curr1=first;
-        ListNode*next1=curr1->next;
-        ListNode*curr2=second;
-        ListNode*next2=curr2->next;
-        
-        
-        if(first->next==NULL){
-            first->next=second;
-        }
-        
-        while(next1 !=NULL and curr2!=NULL){
-            if((curr2->val >=curr1->val)and (curr2->val <=next1->val) ){
-                curr1->next=curr2;
-                next2= curr2->next;
-                curr2->next=next1;
-                curr1=curr2;
-                curr2=next2;
+    ListNode* mergeTwoLists(ListNode* list1, ListNode* list2) {
+        ListNode* dummy = new ListNode(-1);
+        ListNode*temp=dummy;
+        while(list1!=nullptr and list2!=nullptr){
+            if(list2->val >=list1->val){
+                temp->next=list1;
+                temp=list1;
+                list1=list1->next;
             }
             else{
-                curr1=next1;
-                next1=next1->next;
-                if(next1==NULL){
-                    curr1->next=curr2;
-                    return first;
-                }
+                temp->next=list2;
+                temp=list2;
+                list2=list2->next;
             }
         }
-        return first;
-    }
-    ListNode* mergeTwoLists(ListNode* list1, ListNode* list2) {
-        if(list1==NULL and list2==NULL){return NULL;}
-        if(list1==NULL){return list2;}
-        if(list2==NULL){return list1;}
-        if(list1->val <= list2->val){return sol(list1,list2);}
-        else {return sol(list2,list1);}
-
+        while(list1!=nullptr){temp->next=list1;temp=temp->next;list1=list1->next;}
+        while(list2!=nullptr){temp->next=list2;temp=temp->next;list2=list2->next;}
+        return dummy->next;
     }
 };
