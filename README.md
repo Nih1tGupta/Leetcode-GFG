@@ -739,6 +739,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0023-merge-k-sorted-lists) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0138-copy-list-with-random-pointer) |
@@ -747,6 +748,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0021-merge-two-sorted-lists) |
 | [0394-decode-string](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0394-decode-string) |
 | [2050-count-good-numbers](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2050-count-good-numbers) |
 ## Brainteaser
