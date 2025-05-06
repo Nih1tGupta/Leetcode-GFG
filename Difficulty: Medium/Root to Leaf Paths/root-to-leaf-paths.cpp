@@ -115,6 +115,7 @@ class Matrix {
 
 
 // } Driver Code Ends
+
 /*
 
 Definition for Binary Tree Node
@@ -149,6 +150,7 @@ class Solution {
       solve(root->left,path);
       
       solve(root->right,path);
+      path.pop_back();
       return;
   }
   
@@ -158,6 +160,7 @@ class Solution {
         return ans;
     }
 };
+
 
 
 //{ Driver Code Starts.
