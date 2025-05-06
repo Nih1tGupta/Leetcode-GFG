@@ -29,21 +29,18 @@ struct Node
 
 class Solution {
   public:
+    void solve(Node*root,int lvl,vector<int>&v){
+        if(root==nullptr)return;
+        if(lvl==v.size()){v.push_back(root->data);}
+        solve(root->left,lvl+1,v);
+        solve(root->right,lvl+1,v);
+    }
     vector<int> leftView(Node *root) {
-       vector<int>v;
-       if(root==nullptr)return v;
-       queue<Node*>q;
-       q.push(root);
-       while(!q.empty()){
-           int sz=q.size();
-           for(int i=0;i<sz;i++){
-               Node*curr=q.front();q.pop();
-               if(i==0){v.push_back(curr->data);}
-               if(curr->left){q.push(curr->left);}
-               if(curr->right){q.push(curr->right);}
-           }
-       }
-       return v;
+        // code here
+        if(root==nullptr)return {};
+        vector<int>v;
+        solve(root,0,v);
+        return v;
     }
 };
 
