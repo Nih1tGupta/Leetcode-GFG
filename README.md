@@ -214,6 +214,7 @@
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3639-zero-array-transformation-i](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3643-zero-array-transformation-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
@@ -298,6 +299,7 @@
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3227-find-missing-and-repeated-values) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3748-sort-matrix-by-diagonals) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 ## Binary Search
@@ -596,6 +598,7 @@
 | [2868-continuous-subarrays](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2868-continuous-subarrays) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 ## Monotonic Queue
 |  |
@@ -722,6 +725,7 @@
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3514-shortest-distance-after-road-addition-queries-ii](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3514-shortest-distance-after-road-addition-queries-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -836,6 +840,7 @@
 |  |
 | ------- |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Combinatorics
 |  |
 | ------- |
