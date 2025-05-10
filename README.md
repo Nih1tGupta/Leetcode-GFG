@@ -196,6 +196,7 @@
 | [3001-apply-operations-to-maximize-score](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3001-apply-operations-to-maximize-score) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
+| [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3227-find-missing-and-repeated-values](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3227-find-missing-and-repeated-values) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3291-find-if-array-can-be-sorted) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -248,6 +249,7 @@
 | [2681-put-marbles-in-bags](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2681-put-marbles-in-bags) |
 | [2716-prime-subtraction-operation](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2716-prime-subtraction-operation) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3001-apply-operations-to-maximize-score) |
+| [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3514-shortest-distance-after-road-addition-queries-ii](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3514-shortest-distance-after-road-addition-queries-ii) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3738-make-array-non-decreasing](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3738-make-array-non-decreasing) |
