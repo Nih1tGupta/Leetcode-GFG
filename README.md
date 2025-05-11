@@ -122,6 +122,7 @@
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1073-number-of-enclaves](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1073-number-of-enclaves) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1293-three-consecutive-odds](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1293-three-consecutive-odds) |
 | [1319-unique-number-of-occurrences](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1319-unique-number-of-occurrences) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1364-tuple-with-same-product](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1364-tuple-with-same-product) |
