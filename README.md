@@ -560,6 +560,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0144-binary-tree-preorder-traversal) |
 | [0155-min-stack](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0155-min-stack) |
+| [0173-binary-search-tree-iterator](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0173-binary-search-tree-iterator) |
 | [0394-decode-string](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0394-decode-string) |
 | [0678-valid-parenthesis-string](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0735-asteroid-collision) |
@@ -781,6 +782,7 @@
 | ------- |
 | [0146-lru-cache](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0155-min-stack) |
+| [0173-binary-search-tree-iterator](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0173-binary-search-tree-iterator) |
 | [0295-find-median-from-data-stream](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0295-find-median-from-data-stream) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0304-range-sum-query-2d-immutable) |
 | [0937-online-stock-span](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0937-online-stock-span) |
@@ -803,6 +805,7 @@
 | [0110-balanced-binary-tree](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0110-balanced-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0144-binary-tree-preorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0337-house-robber-iii](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0337-house-robber-iii) |
@@ -822,6 +825,7 @@
 | [0110-balanced-binary-tree](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0110-balanced-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0144-binary-tree-preorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0337-house-robber-iii](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0337-house-robber-iii) |
@@ -875,4 +879,12 @@
 | [2215-finding-3-digit-even-numbers](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2215-finding-3-digit-even-numbers) |
 | [2998-count-symmetric-integers](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2998-count-symmetric-integers) |
 | [3548-find-the-count-of-good-integers](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3548-find-the-count-of-good-integers) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0173-binary-search-tree-iterator) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
