@@ -93,6 +93,7 @@
 | [0046-permutations](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0046-permutations) |
 | [0055-jump-game](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0084-largest-rectangle-in-histogram) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -350,6 +351,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0075-sort-colors) |
 | [0229-majority-element-ii](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0229-majority-element-ii) |
 | [0295-find-median-from-data-stream](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0295-find-median-from-data-stream) |
 | [0368-largest-divisible-subset](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0368-largest-divisible-subset) |
@@ -551,6 +553,7 @@
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0031-next-permutation) |
+| [0075-sort-colors](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0075-sort-colors) |
 | [0295-find-median-from-data-stream](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0295-find-median-from-data-stream) |
 | [0768-partition-labels](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0768-partition-labels) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
