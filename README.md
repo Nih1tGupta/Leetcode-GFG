@@ -235,6 +235,7 @@
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3738-make-array-non-decreasing](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3738-make-array-non-decreasing) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3748-sort-matrix-by-diagonals) |
+| [3759-choose-k-elements-with-maximum-sum](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3759-choose-k-elements-with-maximum-sum) |
 | [3760-assign-elements-to-groups-with-constraints](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3760-assign-elements-to-groups-with-constraints) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 | [3827-implement-router](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3827-implement-router) |
@@ -385,6 +386,7 @@
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3748-sort-matrix-by-diagonals) |
+| [3759-choose-k-elements-with-maximum-sum](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3759-choose-k-elements-with-maximum-sum) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 ## String Matching
 |  |
@@ -634,6 +636,7 @@
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3759-choose-k-elements-with-maximum-sum](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3759-choose-k-elements-with-maximum-sum) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 ## Monotonic Queue
 |  |
