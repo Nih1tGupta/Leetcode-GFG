@@ -12,10 +12,12 @@ public:
         // int s=accumulate(nums.begin(),nums.end(),0LL);
         // return (s==0);
         vector<int>v(n,0);
+        
         for(int i=0;i<q;i++){
             int st=queries[i][0]; int end=queries[i][1];
-            v[st]+=1;
-            if(end+1<n){v[end+1]-=1;}
+            int x=-1;
+            v[st]-=x;
+            if(end+1<n){v[end+1]+=x;}
         }
         vector<int>f(n,0);
         int cs=0;
