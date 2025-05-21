@@ -30,6 +30,7 @@
 | [0115-distinct-subsequences](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0131-palindrome-partitioning) |
 | [0394-decode-string](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0394-decode-string) |
+| [0567-permutation-in-string](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0567-permutation-in-string) |
 | [0678-valid-parenthesis-string](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0678-valid-parenthesis-string) |
 | [0768-partition-labels](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0768-partition-labels) |
 | [0812-rotate-string](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0812-rotate-string) |
@@ -409,6 +410,7 @@
 | [0138-copy-list-with-random-pointer](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0138-copy-list-with-random-pointer) |
 | [0146-lru-cache](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0146-lru-cache) |
 | [0229-majority-element-ii](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0229-majority-element-ii) |
+| [0567-permutation-in-string](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0567-permutation-in-string) |
 | [0768-partition-labels](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0797-rabbits-in-forest) |
 | [0889-buddy-strings](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0889-buddy-strings) |
@@ -508,6 +510,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0209-minimum-size-subarray-sum) |
+| [0567-permutation-in-string](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0643-maximum-average-subarray-i) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1046-max-consecutive-ones-iii) |
@@ -568,6 +571,7 @@
 | [0031-next-permutation](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0075-sort-colors) |
 | [0295-find-median-from-data-stream](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0295-find-median-from-data-stream) |
+| [0567-permutation-in-string](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0567-permutation-in-string) |
 | [0768-partition-labels](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0768-partition-labels) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1798-max-number-of-k-sum-pairs) |
