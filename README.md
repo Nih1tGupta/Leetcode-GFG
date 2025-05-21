@@ -88,6 +88,7 @@
 | ------- |
 | [0031-next-permutation](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0036-valid-sudoku](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0039-combination-sum) |
 | [0045-jump-game-ii](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0046-permutations) |
@@ -305,6 +306,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0073-set-matrix-zeroes) |
 | [0130-surrounded-regions](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0130-surrounded-regions) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0304-range-sum-query-2d-immutable) |
@@ -400,6 +402,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0012-integer-to-roman) |
+| [0036-valid-sudoku](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
