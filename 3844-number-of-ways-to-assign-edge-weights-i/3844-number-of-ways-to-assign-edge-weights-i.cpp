@@ -1,61 +1,59 @@
 class Solution {
 public:
 const int MOD = 1e9 + 7;
-vector<int> adj[100005];  // Adjacency list
-int parent[100005];
-int maxDepth = 0;
-int deepestNode = 1;
-int dp[100005][2]; 
 
-// Step 1: DFS to find deepest node from root (node 1)
-void dfs(int node, int par, int depth) {
+// DFS FOR MAX HEIGHT
+void dfs(int node, int parent, int depth, vector<vector<int>>& adj,
+         vector<int>& parentMap, int& maxDepth, int& deepestNode) {
+    parentMap[node] = parent;
     if (depth > maxDepth) {
         maxDepth = depth;
         deepestNode = node;
     }
-    parent[node] = par;
     for (int neighbor : adj[node]) {
-        if (neighbor != par) {
-            dfs(neighbor, node, depth + 1);
+        if (neighbor != parent) {
+            dfs(neighbor, node, depth + 1, adj, parentMap, maxDepth, deepestNode);
         }
     }
 }
 
-int countWays(int index, int parity, int len) {
+// WAYS TO ASSIGN-  GPT
+int countWays(int index, int parity, int len, vector<vector<int>>& dp) {
     if (index == len) return (parity == 1);
-
     if (dp[index][parity] != -1) return dp[index][parity];
 
     int ways = 0;
-    // Try weight 1 → changes parity
-    ways += countWays(index + 1, 1 - parity, len);
-    // Try weight 2 → keeps parity same
-    ways += countWays(index + 1, parity, len);
-
-    return dp[index][parity] = ways % MOD;
+    ways = (ways + countWays(index + 1, 1 - parity, len, dp)) % MOD;
+    ways = (ways + countWays(index + 1, parity, len, dp)) % MOD;
+    return dp[index][parity] = ways;
 }
     int assignEdgeWeights(vector<vector<int>>& edges) {
-        for (auto& edge : edges) {
+         int n = edges.size() + 1; // Number of nodes
+    vector<vector<int>> adj(n + 1);
+    for (auto& edge : edges) {
         int u = edge[0], v = edge[1];
         adj[u].push_back(v);
         adj[v].push_back(u);
     }
-    int n=edges.size();
-//  deepest node from root
-    dfs(1, -1, 0);
-// path
-    vector<int> path;
-    int curr = deepestNode;
-    while (curr != 1) {
-        path.push_back(curr);
-        curr = parent[curr];
-    }
-    path.push_back(1);
-    reverse(path.begin(), path.end());
 
-    int x = path.size() - 1; // number of edges in the path
-// assign
-    memset(dp,-1,sizeof(dp));
-    return countWays(0, 0, x);
+    vector<int> parentMap(n+1, 0);
+    int maxDepth = 0, deepestNode = 1;
+
+    // STEP 1 
+    dfs(1, -1, 0, adj, parentMap, maxDepth, deepestNode);
+
+    // STEP 2- PATH
+    vector<int> path;
+    int current = deepestNode;
+    while (current != -1) {
+        path.push_back(current);
+        current = parentMap[current];
+    }
+    reverse(path.begin(), path.end());
+    int len = path.size() - 1; // number of edges in the path
+    vector<vector<int>> dp(len + 1, vector<int>(2, -1));
+
+    // STEP 3 -NO OF WAYS
+    return countWays(0, 0, len, dp);
     }
 };
