@@ -167,6 +167,7 @@
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2048-build-array-from-permutation](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2048-build-array-from-permutation) |
 | [2107-find-unique-binary-string](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2107-find-unique-binary-string) |
+| [2139-detect-squares](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2139-detect-squares) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2164-two-best-non-overlapping-events](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -447,6 +448,7 @@
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2107-find-unique-binary-string) |
+| [2139-detect-squares](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2139-detect-squares) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2215-finding-3-digit-even-numbers) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2300-construct-string-with-repeat-limit) |
@@ -488,6 +490,7 @@
 | [1777-determine-if-two-strings-are-close](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1777-determine-if-two-strings-are-close) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2139-detect-squares](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2139-detect-squares) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2300-construct-string-with-repeat-limit) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2308-divide-array-into-equal-pairs) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -843,6 +846,7 @@
 | [0937-online-stock-span](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0937-online-stock-span) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1477-product-of-the-last-k-numbers) |
+| [2139-detect-squares](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2139-detect-squares) |
 | [2434-design-a-number-container-system](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2434-design-a-number-container-system) |
 | [3827-implement-router](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3827-implement-router) |
 ## Doubly-Linked List
