@@ -15,7 +15,7 @@ public:
         if (root == nullptr) {
             return {0, 0}; // [I, E]
         }
-        vector<int> left = solve(root->left); // [I, E] - I , E
+        vector<int> left = solve(root->left); // [I, E]
         vector<int> right = solve(root->right);
         vector<int> res(2);
         res[0] = root->val + left[1] + right[1]; // I
