@@ -13,6 +13,9 @@ public:
         // return maxi;
         
         // sliding window
+
+        // o(2n)- > o(n)
+        // catch is - dont allow to extend length- so l= l+1
         int i=0;int j=0;int n=nums.size();
         int zc=0;int maxi=0;
         while(j<n){
