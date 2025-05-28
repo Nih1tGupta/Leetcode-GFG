@@ -38,6 +38,7 @@
 | [0878-shifting-letters](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0878-shifting-letters) |
 | [0889-buddy-strings](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0889-buddy-strings) |
 | [0952-word-subsets](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0952-word-subsets) |
+| [1129-longest-string-chain](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1129-longest-string-chain) |
 | [1160-letter-tile-possibilities](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1160-letter-tile-possibilities) |
 | [1170-shortest-common-supersequence](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1170-shortest-common-supersequence) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -135,6 +136,7 @@
 | [1046-max-consecutive-ones-iii](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1046-max-consecutive-ones-iii) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1073-number-of-enclaves](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1073-number-of-enclaves) |
+| [1129-longest-string-chain](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1129-longest-string-chain) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1293-three-consecutive-odds](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1293-three-consecutive-odds) |
@@ -301,6 +303,7 @@
 | [0542-01-matrix](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0678-valid-parenthesis-string) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [1129-longest-string-chain](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1170-shortest-common-supersequence) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -385,6 +388,7 @@
 | [0780-max-chunks-to-make-sorted](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0780-max-chunks-to-make-sorted) |
 | [0883-car-fleet](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0883-car-fleet) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1129-longest-string-chain](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1129-longest-string-chain) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1977-minimum-interval-to-include-each-query) |
@@ -437,6 +441,7 @@
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0952-word-subsets](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0952-word-subsets) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1129-longest-string-chain](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1129-longest-string-chain) |
 | [1160-letter-tile-possibilities](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1160-letter-tile-possibilities) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -597,6 +602,7 @@
 | [0295-find-median-from-data-stream](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0295-find-median-from-data-stream) |
 | [0567-permutation-in-string](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0567-permutation-in-string) |
 | [0768-partition-labels](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0768-partition-labels) |
+| [1129-longest-string-chain](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1129-longest-string-chain) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2232-adding-spaces-to-a-string](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2232-adding-spaces-to-a-string) |
