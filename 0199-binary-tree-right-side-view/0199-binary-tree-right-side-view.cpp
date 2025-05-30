@@ -20,9 +20,26 @@ public:
     }
     vector<int> rightSideView(TreeNode* root) {
         // reverse pre order
-        if(root==nullptr)return {};
-        vector<int>v;
-        f(root,0,v);
-        return v;
+        // if(root==nullptr)return {};
+        // vector<int>v;
+        // f(root,0,v);
+        // return v;
+          vector<int> res;
+        if(root==NULL) return res;
+        queue<TreeNode*> q;
+        q.push(root);
+        while(!q.empty()){
+            int size = q.size();
+            TreeNode*temp=q.front();
+            res.push_back(temp->val);
+            for(int i=0;i<size;i++){
+                TreeNode*curr = q.front();
+                q.pop();
+                
+                if(curr->right!=NULL) q.push(curr->right);
+                if(curr->left!=NULL) q.push(curr->left);
+            }
+        }
+        return res;
     }
 };
