@@ -28,6 +28,7 @@
 | [0012-integer-to-roman](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0022-generate-parentheses) |
+| [0079-word-search](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0115-distinct-subsequences) |
@@ -102,6 +103,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0084-largest-rectangle-in-histogram) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -335,6 +337,7 @@
 | [0036-valid-sudoku](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0130-surrounded-regions) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0304-range-sum-query-2d-immutable) |
 | [0407-trapping-rain-water-ii](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0407-trapping-rain-water-ii) |
@@ -736,6 +739,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0079-word-search) |
 | [0100-same-tree](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0110-balanced-binary-tree) |
@@ -830,6 +834,7 @@
 | [0039-combination-sum](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0077-combinations) |
+| [0079-word-search](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0131-palindrome-partitioning) |
 | [0494-target-sum](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0494-target-sum) |
 | [1022-unique-paths-iii](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1022-unique-paths-iii) |
