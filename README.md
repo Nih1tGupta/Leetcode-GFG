@@ -119,6 +119,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0300-longest-increasing-subsequence) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0304-range-sum-query-2d-immutable) |
 | [0322-coin-change](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0322-coin-change) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0368-largest-divisible-subset](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0368-largest-divisible-subset) |
 | [0407-trapping-rain-water-ii](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0407-trapping-rain-water-ii) |
 | [0410-split-array-largest-sum](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0410-split-array-largest-sum) |
@@ -307,6 +308,7 @@
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0300-longest-increasing-subsequence](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0322-coin-change) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0337-house-robber-iii](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0337-house-robber-iii) |
 | [0368-largest-divisible-subset](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0368-largest-divisible-subset) |
 | [0410-split-array-largest-sum](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0410-split-array-largest-sum) |
@@ -341,6 +343,7 @@
 | [0079-word-search](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0130-surrounded-regions) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0304-range-sum-query-2d-immutable) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0407-trapping-rain-water-ii) |
 | [0542-01-matrix](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0733-flood-fill) |
@@ -752,6 +755,7 @@
 | [0207-course-schedule](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0210-course-schedule-ii) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0337-house-robber-iii](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0337-house-robber-iii) |
 | [0547-number-of-provinces](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0662-maximum-width-of-binary-tree) |
@@ -779,6 +783,7 @@
 | [0207-course-schedule](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0210-course-schedule-ii) |
 | [0322-coin-change](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0322-coin-change) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0407-trapping-rain-water-ii) |
 | [0542-01-matrix](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0547-number-of-provinces) |
@@ -817,6 +822,7 @@
 | ------- |
 | [0207-course-schedule](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0210-course-schedule-ii) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0547-number-of-provinces](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0820-find-eventual-safe-states) |
@@ -931,6 +937,7 @@
 | ------- |
 | [0207-course-schedule](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0210-course-schedule-ii) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0820-find-eventual-safe-states](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0820-find-eventual-safe-states) |
 | [1558-course-schedule-iv](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1558-course-schedule-iv) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2090-number-of-ways-to-arrive-at-destination) |
@@ -983,4 +990,8 @@
 |  |
 | ------- |
 | [1977-minimum-interval-to-include-each-query](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1977-minimum-interval-to-include-each-query) |
+## Memoization
+|  |
+| ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0329-longest-increasing-path-in-a-matrix) |
 <!---LeetCode Topics End-->
