@@ -1,51 +1,13 @@
-<h2><a href="https://www.geeksforgeeks.org/problems/unique-paths-in-a-grid--170647/1?page=1&company=D-E-Shaw&sortBy=difficulty">Unique Paths in a Grid</a></h2><h3>Difficulty Level : Difficulty: Medium</h3><hr><div class="problems_problem_content__Xm_eO"><p><span style="font-size:18px">You are given a matrix <strong>grid</strong> of&nbsp;<strong>n</strong> x&nbsp; <strong>m</strong> size consisting of values <strong>0</strong> and <strong>1</strong>. A value of <strong>1</strong> means that you can enter that cell and <strong>0</strong> implies that entry to that cell is not allowed. </span></p>
-
-<p><span style="font-size:18px">You start at the upper-left corner of the grid <strong>(1, 1)</strong> and you have to reach the bottom-right corner <strong>(n, m)</strong> such that you can only move in the right or down direction from every cell. </span></p>
-
-<p><span style="font-size:18px">Your task is to calculate the total number of ways of reaching the target <strong>modulo (10<sup>9</sup>+7)</strong>.<br>
-<strong>Note:</strong> The <strong>first (1, 1)</strong> and <strong>last cell (n, m)</strong> of the grid can also be <strong>0</strong></span></p>
-
-<p><br>
-<strong><span style="font-size:18px">Example 1:</span></strong></p>
-
-<pre><span style="font-size:18px"><strong>Input:
-</strong>n = 3, m = 3
-grid[][] = {{1, 1, 1};
-&nbsp;           {1, 0, 1};
-&nbsp;           {1, 1, 1}}
-<strong>Output:
-</strong>2
-<strong>Explanation:</strong>
-<strong>1</strong> 1 1
-<strong>1</strong> 0 1
-<strong>1 1 1
-</strong>This is one possible path.
-<strong>1</strong> <strong>1 1</strong>
-1 0 <strong>1</strong>
-1<strong> </strong>1 <strong>1
-</strong>This is another possible path.</span>
-</pre>
-
-<p><span style="font-size:18px"><strong>Example 2:</strong></span></p>
-
-<pre><span style="font-size:18px"><strong>Input:
-</strong>n = 1, m = 3
-grid = {{1, 0, 1}}
-<strong>Output :</strong>
-0
-<strong>Explanation:</strong>
-There is no possible path to reach the end.
+<h2><a href="https://www.geeksforgeeks.org/problems/unique-paths-in-a-grid--170647/1">Unique Paths in a Grid</a></h2><h3>Difficulty Level : Difficulty: Medium</h3><hr><div class="problems_problem_content__Xm_eO"><p><span style="font-size: 14pt;">You are given a 2d list <strong>grid[][]</strong> of size n x m consisting of values <strong>0</strong> and <strong>1</strong>.<br>A value of <strong>0</strong> means that you can enter that cell and <strong>1</strong> implies that entry to that cell is not allowed. <br>You start at the upper-left corner of the grid <strong>(1, 1)</strong> and you have to reach the bottom-right corner <strong>(n, m)</strong> such that you can only move in the<strong> right</strong> or <strong>down</strong> direction from every cell. <br></span><span style="font-size: 14pt;"><span style="font-size: 14pt;">Your task is to calculate the total number of <strong>ways</strong> of reaching the target.<br></span></span></p>
+<p><span style="font-size: 14pt;"><strong style="font-size: 14pt;">Note:</strong><span style="font-size: 14pt;"> The </span><strong style="font-size: 14pt;">first (1, 1)</strong><span style="font-size: 14pt;"> and </span><strong style="font-size: 14pt;">last (n, m) </strong><span style="font-size: 14pt;">cell of the grid can also be </span><strong style="font-size: 14pt;">1</strong><span style="font-size: 14pt;">.</span><br><span style="font-size: 18.6667px;">It is guaranteed that the total number of ways<strong> </strong>will fit within a <strong>32-bit</strong> integer.<br><br></span></span><span style="font-size: 14pt;"><strong>Examples:</strong></span></p>
+<pre><span style="font-size: 14pt;"><strong>Input: </strong>n = 3, m = 3,
+grid[][] = [[0, 0, 0], [0, 1, 0], [0, 0, 0]]
+<strong>Output: </strong>2
+<strong>Explanation: </strong>There are two ways to reach the bottom-right corner:
+1. Right -&gt; Right -&gt; Down -&gt; Down</span><br><span style="font-size: 14pt;">2. Down -&gt; Down -&gt; Right -&gt; Right</span></pre>
+<pre><span style="font-size: 14pt;"><strong>Input: </strong>n = 1, m = 3,
+grid[][] = [[1, 0, 1]]
+<strong>Output: </strong>0
+<strong>Explanation: </strong>There is no possible path to reach the end.
 </span></pre>
-
-<p><br>
-<span style="font-size:18px"><strong>Your Task:&nbsp;&nbsp;</strong><br>
-You don't need to read input or print anything. Your task is to complete the function&nbsp;<strong>uniquePaths()</strong>&nbsp;which takes 2&nbsp;integers n,&nbsp;and m, and a matrix of size n*m as input and returns the number of unique paths from cell (1,1) to (n,m) modulo (10<sup>9</sup>+7)</span></p>
-
-<p><br>
-<span style="font-size:18px"><strong>Expected Time Complexity:</strong>&nbsp;O(n*m)<br>
-<strong>Expected Auxiliary Space:</strong>&nbsp;O(n*m)</span></p>
-
-<p><br>
-<span style="font-size:18px"><strong>Constraints:</strong><br>
-1 ≤ n*m ≤ 10</span><sup><span style="font-size:15px">6</span></sup></p>
-</div><p><span style=font-size:18px><strong>Company Tags : </strong><br><code>Uber</code>&nbsp;<br><p><span style=font-size:18px><strong>Topic Tags : </strong><br><code>Dynamic Programming</code>&nbsp;<code>Matrix</code>&nbsp;<code>Data Structures</code>&nbsp;<code>Algorithms</code>&nbsp;
+<p><span style="font-size: 14pt;"><strong>Constraints:</strong><br>1 ≤ n*m ≤ 10<sup>6</sup></span></p></div><p><span style=font-size:18px><strong>Company Tags : </strong><br><code>Uber</code>&nbsp;<br><p><span style=font-size:18px><strong>Topic Tags : </strong><br><code>Dynamic Programming</code>&nbsp;<code>Matrix</code>&nbsp;<code>Data Structures</code>&nbsp;<code>Algorithms</code>&nbsp;
