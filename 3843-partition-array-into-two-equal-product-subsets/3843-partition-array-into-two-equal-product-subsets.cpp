@@ -6,7 +6,8 @@ unordered_map<string, bool> dp;
         return cnt1 > 0 && cnt2 > 0 && prod1 == target && prod2 == target;
     }
 
-    string key = to_string(i) + "#" + to_string(prod1) + "#" + to_string(cnt1);
+   string key = to_string(i) + "#" + to_string(prod1) + "#" + to_string(cnt1) + "#" + to_string(prod2) + "#" + to_string(cnt2);
+
     if (dp.count(key)) return dp[key];
 
     bool res = false;
