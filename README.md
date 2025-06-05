@@ -25,6 +25,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0017-letter-combinations-of-a-phone-number) |
@@ -299,6 +300,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0055-jump-game) |
@@ -623,6 +625,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0005-longest-palindromic-substring) |
 | [0031-next-permutation](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0075-sort-colors) |
 | [0202-happy-number](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0202-happy-number) |
