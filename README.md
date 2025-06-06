@@ -30,6 +30,7 @@
 | [0014-longest-common-prefix](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0022-generate-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0079-word-search](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0097-interleaving-string) |
@@ -441,6 +442,7 @@
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0812-rotate-string](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0812-rotate-string) |
 | [1524-string-matching-in-an-array](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1524-string-matching-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -626,6 +628,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0005-longest-palindromic-substring) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0075-sort-colors) |
 | [0202-happy-number](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0202-happy-number) |
