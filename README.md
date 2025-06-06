@@ -31,6 +31,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0038-count-and-say](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0038-count-and-say) |
 | [0079-word-search](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0097-interleaving-string) |
