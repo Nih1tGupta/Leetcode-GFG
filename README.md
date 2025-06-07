@@ -204,6 +204,7 @@
 | [2308-divide-array-into-equal-pairs](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2308-divide-array-into-equal-pairs) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2358-number-of-ways-to-split-array](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2358-number-of-ways-to-split-array) |
 | [2428-equal-row-and-column-pairs](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2428-equal-row-and-column-pairs) |
 | [2448-count-number-of-bad-pairs](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2448-count-number-of-bad-pairs) |
 | [2465-shifting-letters-ii](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2465-shifting-letters-ii) |
@@ -564,6 +565,7 @@
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1940-maximum-xor-for-each-query](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1940-maximum-xor-for-each-query) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2358-number-of-ways-to-split-array](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3427-special-array-ii](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3427-special-array-ii) |
