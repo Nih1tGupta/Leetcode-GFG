@@ -10,8 +10,8 @@ public:
     }
     int lengthOfLIS(vector<int>& nums) {
         int n = nums.size();
-        // vector<vector<int>>dp(n+1,vector<int>(n+1,-1));
-        // return solve(0,-1,nums,n,dp);
+        vector<vector<int>>dp(n,vector<int>(n,-1));
+        return solve(0,-1,nums,n,dp);
 
 
         // vector<vector<int>>dp(n+1,vector<int>(n+1,0));
@@ -25,14 +25,32 @@ public:
         // }
         // return dp[0][0];
 
-        vector<int>dp(n,1);
-        int maxi=1;
-        for(int i=0;i<n;i++){
-            for(int prev=0;prev<i;prev++){
-                if(nums[i]>nums[prev]){dp[i]= max(dp[i],1+dp[prev]);}
-            }
-             maxi=max(maxi,dp[i]);
-        }
-    return maxi;
+    //     vector<int>dp(n,1);
+    // vector<int>hash(n);
+    // int lastidx=0;
+    // //     int maxi=1;
+    // //     for(int i=0;i<n;i++){
+    //     hash[i]=i;
+    // //         for(int prev=0;prev<i;prev++){
+    // //             if(nums[i]>nums[prev]){
+    //     if(1+dp[prev]>dp[i]){
+    //         hash[i]=prev;
+    //     dp[i]= max(dp[i],1+dp[prev]);
+    //     }
+    //     }
+    // //         }
+    //          if(maxi<dp[i]){
+    //             maxi=dp[i];
+    //             lastidx=i;
+    //          }
+
+    // //     }
+    // // return maxi;
+    // while(hash[lastidx]!=lastidx){
+    //     lastidx=hash[lastidx];
+    //     v.push_back(nums[lastidx]);
+    // }
+    // // return v;
+    // return maxi;
     }
 };
