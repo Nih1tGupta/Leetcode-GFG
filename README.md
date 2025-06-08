@@ -96,6 +96,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0014-longest-common-prefix) |
+| [0386-lexicographical-numbers](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0386-lexicographical-numbers) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Array
 |  |
@@ -786,6 +787,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0337-house-robber-iii](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0337-house-robber-iii) |
+| [0386-lexicographical-numbers](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0386-lexicographical-numbers) |
 | [0547-number-of-provinces](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0662-maximum-width-of-binary-tree) |
