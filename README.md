@@ -5,6 +5,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0078-subsets) |
 | [1022-unique-paths-iii](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1022-unique-paths-iii) |
 | [1940-maximum-xor-for-each-query](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1940-maximum-xor-for-each-query) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -113,6 +114,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0084-largest-rectangle-in-histogram) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -887,6 +889,7 @@
 | [0039-combination-sum](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0131-palindrome-partitioning) |
 | [0494-target-sum](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0494-target-sum) |
