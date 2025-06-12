@@ -273,6 +273,7 @@
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3738-make-array-non-decreasing](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3738-make-array-non-decreasing) |
+| [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3748-sort-matrix-by-diagonals) |
 | [3759-choose-k-elements-with-maximum-sum](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3759-choose-k-elements-with-maximum-sum) |
 | [3760-assign-elements-to-groups-with-constraints](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3760-assign-elements-to-groups-with-constraints) |
