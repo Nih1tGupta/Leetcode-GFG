@@ -22,15 +22,6 @@ class Solution {
             result.push_back(pq.top().second);
             pq.pop();
         }
-
-        // Sort the result based on closeness again for output ordering
-        // sort(result.begin(), result.end(), [&](int a, int b) {
-        //     int diffA = abs(a - x), diffB = abs(b - x);
-        //     if (diffA != diffB)
-        //         return diffA < diffB;
-        //     return a > b; // prefer larger element if tie
-        // });
-
         return result;
     }
 };
