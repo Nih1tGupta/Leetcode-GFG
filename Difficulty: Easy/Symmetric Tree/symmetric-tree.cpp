@@ -18,7 +18,7 @@ class Solution {
         if(l1->data != l2->data){return false;}
         bool x= solve(l1->left,l2->right);
         bool y=solve(l1->right,l2->left);
-        return x&y;
+        return x|y;
     }
     bool isSymmetric(Node* root) {
         // Code here
