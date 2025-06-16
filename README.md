@@ -197,6 +197,7 @@
 | [2048-build-array-from-permutation](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2048-build-array-from-permutation) |
 | [2107-find-unique-binary-string](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2107-find-unique-binary-string) |
 | [2139-detect-squares](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2139-detect-squares) |
+| [2144-maximum-difference-between-increasing-elements](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2164-two-best-non-overlapping-events](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2179-most-beautiful-item-for-each-query) |
