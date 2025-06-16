@@ -14,7 +14,7 @@ public:
                 i++;
             }
         }
-    return (i==f and j==s);
+    return ( j==s);
     }
     static bool compare(string &s1,string &s2)
 {
