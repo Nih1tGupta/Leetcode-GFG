@@ -10,8 +10,10 @@ class Solution {
     // Function to find the maximum number of meetings that can
     // be performed in a meeting room.
     static bool cmp(pair<int,int>a,pair<int,int>b){
-        return b.second > a.second;
+        return a.second< b.second;
     }
+    // meeting thar are ending faster-greedy
+    // sort by end time
     int maxMeetings(vector<int>& start, vector<int>& end) {
         // Your code here
         vector<pair<int,int>>v;
