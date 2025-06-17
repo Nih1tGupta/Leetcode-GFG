@@ -127,6 +127,7 @@
 | [0152-maximum-product-subarray](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0162-find-peak-element) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0189-rotate-array](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0209-minimum-size-subarray-sum) |
 | [0229-majority-element-ii](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0229-majority-element-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0300-longest-increasing-subsequence) |
@@ -625,6 +626,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0012-integer-to-roman) |
+| [0189-rotate-array](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0202-happy-number) |
 | [0368-largest-divisible-subset](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0368-largest-divisible-subset) |
 | [0797-rabbits-in-forest](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0797-rabbits-in-forest) |
@@ -663,6 +665,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0075-sort-colors) |
+| [0189-rotate-array](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0202-happy-number) |
 | [0295-find-median-from-data-stream](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0295-find-median-from-data-stream) |
 | [0567-permutation-in-string](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0567-permutation-in-string) |
