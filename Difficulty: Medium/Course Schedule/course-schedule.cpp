@@ -1,84 +1,34 @@
-//{ Driver Code Starts
-#include <bits/stdc++.h>
-using namespace std;
-
-// } Driver Code Ends
-//User function Template for C++
-
-class Solution
-{
+class Solution {
   public:
-    vector<int> findOrder(int N, int m, vector<vector<int>> p) 
-    {
-         vector<int>adj[N];
-	   for(auto &it:p){adj[it[1]].push_back(it[0]);}
-	   int indegree[N]={0};
-	   for(int i=0;i<N;i++){
-	       for(auto &it:adj[i]){indegree[it]++;}
-	   }
-	   queue<int>q;
-	   vector<int>topo;
-	   for(int i=0;i<N;i++){if(indegree[i]==0)q.push(i);}
-	   vector<int>v;
-	   while(!q.empty()){
-	       int fr=q.front();q.pop();topo.push_back(fr);
-	       for(auto it:adj[fr]){
-	           indegree[it]--;
-	           if(indegree[it]==0){q.push(it);}
-	           
-	       }
-	       
-	   }
-	  if(topo.size()==N)return topo;
-	  return {};
-	   
+    bool dfs(vector<int>&ans,int node,vector<int>&vis,vector<vector<int>>&adj,vector<int>&pv){
+        vis[node]=1;
+        pv[node]=1;
+        for(auto it:adj[node]){
+            if(!vis[it]){
+                if(dfs(ans,it,vis,adj,pv)==true){return true;}
+            }
+            else if(pv[it]==1){return true;}
+        }
+        ans.push_back(node);
+        pv[node]=0;
+        return false;
+    }
+    vector<int> findOrder(int n, vector<vector<int>> prerequisites) {
+        // code here
+        vector<vector<int>>adj(n);
+        for(auto it:prerequisites){
+            adj[it[0]].push_back(it[1]);
+        }
+        vector<int> visited(n,0);
+        vector<int> pathVisited(n,0);
+        vector<int> ans;
+        
+        for(int i=0;i<n;i++){
+            if(!visited[i]){
+                if(dfs(ans,i,visited,adj,pathVisited)==true) return {};
+            }
+        }
+        
+        return ans;
     }
 };
-
-//{ Driver Code Starts.
-
-int check(int V, vector <int> &res, vector<int> adj[]) {
-    vector<int> map(V, -1);
-    for (int i = 0; i < V; i++) {
-        map[res[i]] = i;
-    }
-    for (int i = 0; i < V; i++) {
-        for (int v : adj[i]) {
-            if (map[i] > map[v]) return 0;
-        }
-    }
-    return 1;
-}
-
-int main() {
-    int T;
-    cin >> T;
-    while (T--) {
-        int n, m;
-        cin >> n >> m;
-        int u, v;
-
-        vector<vector<int>> prerequisites;
-
-        for (int i = 0; i < m; i++) {
-            cin >> u >> v;
-            prerequisites.push_back({u,v});
-        }
-        
-        vector<int> adj[n];
-        for (auto pre : prerequisites)
-            adj[pre[1]].push_back(pre[0]);
-        
-        Solution obj;
-        vector <int> res = obj.findOrder(n, m, prerequisites);
-        if(!res.size())
-            cout<<"No Ordering Possible"<<endl;
-        else
-            cout << check(n, res, adj) << endl;
-    
-cout << "~" << "\n";
-}
-    
-    return 0;
-}
-// } Driver Code Ends
