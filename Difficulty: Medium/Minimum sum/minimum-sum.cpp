@@ -1,15 +1,8 @@
-//{ Driver Code Starts
-#include <bits/stdc++.h>
-using namespace std;
-
-
-// } Driver Code Ends
-// User function template for C++
-
 class Solution {
   public:
     string minSum(vector<int> &arr) {
-        vector<int>v3;
+        // code here
+           vector<int>v3;
         sort(arr.begin(),arr.end());
         int i=0;vector<int>v1;vector<int>v2;
         while(i<arr.size()){
@@ -51,29 +44,3 @@ class Solution {
         return s;
     }
 };
-
-//{ Driver Code Starts.
-
-int main() {
-    int t;
-    cin >> t;
-    cin.ignore();
-    while (t--) {
-        vector<int> a;
-        string input;
-        getline(cin, input);
-        stringstream ss(input);
-        int number;
-        while (ss >> number) {
-            a.push_back(number);
-        }
-
-        Solution ob;
-        string ans = ob.minSum(a);
-        cout << ans << endl;
-        cout << "~" << endl;
-    }
-    return 0;
-}
-
-// } Driver Code Ends
