@@ -40,6 +40,7 @@
 | [0131-palindrome-partitioning](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0131-palindrome-partitioning) |
 | [0394-decode-string](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0394-decode-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0402-remove-k-digits](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0402-remove-k-digits) |
 | [0567-permutation-in-string](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0567-permutation-in-string) |
 | [0678-valid-parenthesis-string](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0678-valid-parenthesis-string) |
 | [0768-partition-labels](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0768-partition-labels) |
@@ -292,6 +293,7 @@
 | [0055-jump-game](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0135-candy) |
+| [0402-remove-k-digits](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0410-split-array-largest-sum) |
 | [0605-can-place-flowers](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0605-can-place-flowers) |
 | [0630-course-schedule-iii](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0630-course-schedule-iii) |
@@ -696,6 +698,7 @@
 | [0155-min-stack](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0173-binary-search-tree-iterator) |
 | [0394-decode-string](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0394-decode-string) |
+| [0402-remove-k-digits](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0402-remove-k-digits) |
 | [0678-valid-parenthesis-string](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0735-asteroid-collision) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0780-max-chunks-to-make-sorted) |
@@ -716,6 +719,7 @@
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0084-largest-rectangle-in-histogram) |
+| [0402-remove-k-digits](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0402-remove-k-digits) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0780-max-chunks-to-make-sorted) |
 | [0883-car-fleet](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0883-car-fleet) |
 | [0937-online-stock-span](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0937-online-stock-span) |
