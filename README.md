@@ -824,6 +824,7 @@
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0337-house-robber-iii](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0337-house-robber-iii) |
 | [0386-lexicographical-numbers](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0386-lexicographical-numbers) |
+| [0543-diameter-of-binary-tree](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0662-maximum-width-of-binary-tree) |
@@ -982,6 +983,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0337-house-robber-iii](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0337-house-robber-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0450-delete-node-in-a-bst) |
+| [0543-diameter-of-binary-tree](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0662-maximum-width-of-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -1005,6 +1007,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0337-house-robber-iii](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0337-house-robber-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0450-delete-node-in-a-bst) |
+| [0543-diameter-of-binary-tree](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0662-maximum-width-of-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
