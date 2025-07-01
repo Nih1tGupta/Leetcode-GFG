@@ -1,93 +1,3 @@
-//{ Driver Code Starts
-#include <bits/stdc++.h>
-using namespace std;
-#define MAX_HEIGHT 100000
-
-// Tree Node
-class Node {
-  public:
-    int data;
-    Node* left;
-    Node* right;
-
-    // Constructor to initialize a new node
-    Node(int val) {
-        data = val;
-        left = NULL;
-        right = NULL;
-    }
-};
-
-// Utility function to create a new Tree Node
-Node* newNode(int val) {
-    return new Node(val);
-}
-
-// Function to Build Tree
-Node* buildTree(string str) {
-    // Corner Case
-    if (str.length() == 0 || str[0] == 'N')
-        return NULL;
-
-    // Creating vector of strings from input
-    // string after splitting by space
-    vector<string> ip;
-
-    istringstream iss(str);
-    for (string str; iss >> str;)
-        ip.push_back(str);
-
-    // Create the root of the tree
-    Node* root = newNode(stoi(ip[0]));
-
-    // Push the root to the queue
-    queue<Node*> queue;
-    queue.push(root);
-
-    // Starting from the second element
-    int i = 1;
-    while (!queue.empty() && i < ip.size()) {
-
-        // Get and remove the front of the queue
-        Node* currNode = queue.front();
-        queue.pop();
-
-        // Get the current node's value from the string
-        string currVal = ip[i];
-
-        // If the left child is not null
-        if (currVal != "N") {
-
-            // Create the left child for the current node
-            currNode->left = newNode(stoi(currVal));
-
-            // Push it to the queue
-            queue.push(currNode->left);
-        }
-
-        // For the right child
-        i++;
-        if (i >= ip.size())
-            break;
-        currVal = ip[i];
-
-        // If the right child is not null
-        if (currVal != "N") {
-
-            // Create the right child for the current node
-            currNode->right = newNode(stoi(currVal));
-
-            // Push it to the queue
-            queue.push(currNode->right);
-        }
-        i++;
-    }
-
-    return root;
-}
-
-
-// } Driver Code Ends
 /*
 // Tree Node
 class Node {
@@ -107,64 +17,43 @@ class Node {
 
 class Solution {
   public:
-    void traverseleft(Node *root,vector<int>&ans){
-        if(root==nullptr || (root->left==nullptr and root->right==nullptr )){return;}
-          ans.push_back(root->data);
-        if(root->left){traverseleft(root->left,ans);}
-        else{traverseleft(root->right,ans);}
+    bool isLeaf(Node*root){
+        if(root->left==nullptr and root->right==nullptr){return 1;}
+        return 0;
+    }
+    void leftt(Node*root,vector<int>&v){
+        while(root!=nullptr){
+            if(!isLeaf(root)){v.push_back(root->data);}
+            if(root->left){root=root->left;}
+            else{root=root->right;}
+        }
     }
     
-    void traverseleaf(Node *root,vector<int>&ans){
-        if(root==nullptr){return;}
-        if(root->left==nullptr and root->right==nullptr){ans.push_back(root->data);return;}
-        if(root->left){traverseleaf(root->left,ans);}
-         if(root->right){traverseleaf(root->right,ans);}
-    }
-    void traverseright(Node*root,vector<int>&ans){
-  if(root==nullptr || (root->left==nullptr and root->right==nullptr )){return;}
-     if(root->right){traverseright(root->right,ans);}
-     else{traverseright(root->left,ans);}
-     ans.push_back(root->data);
+    void leaf(Node*root,vector<int>&v){
+        if(isLeaf(root)){v.push_back(root->data);}
+        if(root->left){leaf(root->left,v);}
+        if(root->right){leaf(root->right,v);}
     }
     
-    
-    
-        
-
-    vector <int> boundaryTraversal(Node *root)
-    {
-        vector<int>ans;
-        if(root==nullptr){return ans;}
-        ans.push_back(root->data);
-        traverseleft(root->left,ans);
-        traverseleaf(root->left,ans);   traverseleaf(root->right,ans);
-        traverseright(root->right,ans);
-        return ans;
+      void rightt(Node*root,vector<int>&v){
+          vector<int>temp;
+        while(root!=nullptr){
+            if(!isLeaf(root)){temp.push_back(root->data);}
+            if(root->right){root=root->right;}
+            else{root=root->left;}
+        }
+        for(int i=temp.size()-1;i>=0;i--){
+            v.push_back(temp[i]);
+        }
+    }
+    vector<int> boundaryTraversal(Node *root) {
+        // code here
+        vector<int>v;
+        if(root==nullptr){return v;}
+        if(!isLeaf(root)){v.push_back(root->data);}
+        leftt(root->left,v);
+        leaf(root,v);
+        rightt(root->right,v);
+        return v;
     }
 };
-
-//{ Driver Code Starts.
-
-/* Driver program to test size function */
-int main() {
-    int t;
-    string tc;
-    getline(cin, tc);
-    t = stoi(tc);
-    while (t--) {
-        string s, ch;
-        getline(cin, s);
-        Node* root = buildTree(s);
-        Solution ob;
-        vector<int> res = ob.boundaryTraversal(root);
-        for (int i : res)
-            cout << i << " ";
-        cout << endl;
-
-        cout << "~"
-             << "\n";
-    }
-    return 0;
-}
-
-// } Driver Code Ends
