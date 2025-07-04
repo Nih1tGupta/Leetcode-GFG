@@ -159,6 +159,7 @@
 | [0940-fruit-into-baskets](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0940-fruit-into-baskets) |
 | [0945-snakes-and-ladders](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0945-snakes-and-ladders) |
 | [0952-word-subsets](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0952-word-subsets) |
+| [0967-minimum-falling-path-sum](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0967-minimum-falling-path-sum) |
 | [1022-unique-paths-iii](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1022-unique-paths-iii) |
 | [1046-max-consecutive-ones-iii](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1046-max-consecutive-ones-iii) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1049-minimum-domino-rotations-for-equal-row) |
@@ -353,6 +354,7 @@
 | [0646-maximum-length-of-pair-chain](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0646-maximum-length-of-pair-chain) |
 | [0678-valid-parenthesis-string](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0678-valid-parenthesis-string) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [0967-minimum-falling-path-sum](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0967-minimum-falling-path-sum) |
 | [1129-longest-string-chain](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1170-shortest-common-supersequence) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -383,6 +385,7 @@
 | [0542-01-matrix](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0733-flood-fill) |
 | [0945-snakes-and-ladders](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0945-snakes-and-ladders) |
+| [0967-minimum-falling-path-sum](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0967-minimum-falling-path-sum) |
 | [1022-unique-paths-iii](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1022-unique-paths-iii) |
 | [1073-number-of-enclaves](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1171-shortest-path-in-binary-matrix) |
