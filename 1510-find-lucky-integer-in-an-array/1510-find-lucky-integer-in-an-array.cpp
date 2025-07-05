@@ -16,6 +16,5 @@ public:
                     maxi=arr[i];}}}
          
         return maxi;
-        
     }
 };
