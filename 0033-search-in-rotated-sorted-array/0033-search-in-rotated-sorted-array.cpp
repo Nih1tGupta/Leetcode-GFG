@@ -1,17 +1,18 @@
 class Solution {
 public:
     int search(vector<int>& nums, int target) {
-        int l=0;int h=nums.size()-1;
+        int l=0; int n=nums.size();
+        int h=n-1;
         while(l<=h){
-            int mid= (l+h)/2;
-            if(nums[mid]==target){return mid;}
-            if(nums[l]<=nums[mid]){
-                if(target>=nums[l] and target <=nums[mid]){ h=mid-1;}
-                else{l=mid+1;}
+            int m=(l+h)/2;
+            if(nums[m]==target)return m;
+            else if(nums[l]<=nums[m]){
+                if(nums[l]<=target and target<=nums[m]){h=m-1;}
+                else{l=m+1;}
             }
             else{
-                   if(target>=nums[mid] and target <=nums[h]){ l=mid+1;}
-                else{h=mid-1;}
+                if(nums[m]<=target and nums[h]>=target){l=m+1;}
+                else{h=m-1;}
             }
         }
         return -1;
