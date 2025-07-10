@@ -115,6 +115,7 @@
 | [0045-jump-game-ii](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0046-permutations) |
 | [0055-jump-game](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0075-sort-colors) |
@@ -447,6 +448,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0075-sort-colors) |
 | [0229-majority-element-ii](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0229-majority-element-ii) |
 | [0295-find-median-from-data-stream](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0295-find-median-from-data-stream) |
