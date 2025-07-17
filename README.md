@@ -277,6 +277,7 @@
 | [3430-count-days-without-meetings](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3430-count-days-without-meetings) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3483-alternating-groups-ii) |
+| [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3514-shortest-distance-after-road-addition-queries-ii](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3514-shortest-distance-after-road-addition-queries-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
@@ -379,6 +380,7 @@
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Matrix
 |  |
