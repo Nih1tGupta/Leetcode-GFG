@@ -108,6 +108,7 @@
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0004-median-of-two-sorted-arrays) |
 | [0031-next-permutation](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -416,6 +417,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0074-search-a-2d-matrix) |
@@ -1063,6 +1065,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0023-merge-k-sorted-lists) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
