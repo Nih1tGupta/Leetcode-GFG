@@ -299,6 +299,7 @@
 | [3759-choose-k-elements-with-maximum-sum](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3759-choose-k-elements-with-maximum-sum) |
 | [3760-assign-elements-to-groups-with-constraints](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3760-assign-elements-to-groups-with-constraints) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3764-maximum-sum-with-at-most-k-elements) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3827-implement-router](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3827-implement-router) |
 ## Greedy
 |  |
@@ -340,6 +341,7 @@
 | [3738-make-array-non-decreasing](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3738-make-array-non-decreasing) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3764-maximum-sum-with-at-most-k-elements) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -575,6 +577,7 @@
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3760-assign-elements-to-groups-with-constraints](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3760-assign-elements-to-groups-with-constraints) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3827-implement-router](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3827-implement-router) |
 ## Counting
 |  |
