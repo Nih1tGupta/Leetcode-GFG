@@ -1,58 +1,36 @@
-//{ Driver Code Starts
-#include <bits/stdc++.h>
-
-using namespace std;
-
-
-// } Driver Code Ends
 class Solution {
   public:
-    // arr: input array
-    // Function to find maximum circular subarray sum.
-    int circularSubarraySum(vector<int> &arr) {
+    int maxCircularSum(vector<int> &arr) {
+    //      int n = arr.size();
+    //     int maxSum = INT_MIN;
 
-        int s1=0;
-       int s2=0;
-       int ts=0;
-       int ms=INT_MIN;
-       int mns=INT_MAX;
-       for(int i=0;i<arr.size();i++)
-       {
-           ts+=arr[i];
-           s1+=arr[i];
-           s2+=arr[i];
-           if(s1<0) s1=0;
-           if(s2>0) s2=0;
-           ms=max(ms,s1);
-           mns=min(mns,s2);
-       }
-       return max(ms,ts-mns);
+    // for (int i = 0; i < n; ++i) {           // Starting index
+    //     int sum = 0;
+    //     for (int j = 0; j < n; ++j) {       // Length of subarray
+    //         sum += arr[(i + j) % n];        // Wrap using modulo
+    //         maxSum = max(maxSum, sum);
+    //     }
+    // }
+    // return maxSum;
+     int totalSum = 0;
+    int maxSum = INT_MIN, curMax = 0;
+    int minSum = INT_MAX, curMin = 0;
+
+    for (int num : arr) {
+        totalSum += num;
+
+        // Normal max subarray (Kadane)
+        curMax = max(num, curMax + num);
+        maxSum = max(maxSum, curMax);
+
+        // Min subarray (for circular case)
+        curMin = min(num, curMin + num);
+        minSum = min(minSum, curMin);
+    }
+
+    // If all numbers are negative
+    if (maxSum < 0) return maxSum;
+
+    return max(maxSum, totalSum - minSum);
     }
 };
-
-//{ Driver Code Starts.
-int main() {
-    int t;
-    cin >> t;
-    cin.ignore();
-    while (t--) {
-        vector<int> arr;
-        string input;
-
-        // Read first array
-        getline(cin, input);
-        stringstream ss(input);
-        int number;
-        while (ss >> number) {
-            arr.push_back(number);
-        }
-
-        Solution ob;
-        int res = ob.circularSubarraySum(arr);
-
-        cout << res << endl;
-    }
-    return 0;
-}
-
-// } Driver Code Ends
