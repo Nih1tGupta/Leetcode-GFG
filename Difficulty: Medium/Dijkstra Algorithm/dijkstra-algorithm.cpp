@@ -1,80 +1,28 @@
-//{ Driver Code Starts
-#include <bits/stdc++.h>
-using namespace std;
-
-
-// } Driver Code Ends
-
 // User Function Template
 class Solution {
   public:
     vector<int> dijkstra(int V, vector<vector<int>> &edges, int src) {
         // Code here
-        int n=edges.size();
-          vector<pair<int,int>>adj[n];
+        vector<pair<int,int>>adj[V+1];
         for(auto it:edges){
-            adj[it[0]].push_back({it[2], it[1]});
-            adj[it[1]].push_back({it[2], it[0]});
+            int u=it[0]; int v=it[1]; int wt=it[2];
+            adj[u].push_back({v,wt});
+            adj[v].push_back({u,wt});
         }
-        
-        priority_queue<pair<int,int>, vector<pair<int,int>>, greater<pair<int,int>>>pq;
-        
-        vector<int>dist(n, 1e9);
+        vector<int>dist(V,INT_MAX);
+        priority_queue<pair<int,int>,vector<pair<int,int>>,greater<pair<int,int>>>pq;
+        pq.push({src,0});
         dist[src]=0;
-        pq.push({0, src});
-        
         while(!pq.empty()){
-            int wt=pq.top().first;
-            int node=pq.top().second;
-            pq.pop();
-            
-            for(auto it:adj[node]){
-                if(dist[it.second] > wt + it.first){
-                    dist[it.second] = wt+it.first;
-                    pq.push({dist[it.second], it.second});
+            int node=pq.top().first; int dis=pq.top().second;pq.pop();
+            for(auto &it:adj[node]){
+                int neigh=it.first; int more=it.second;
+                if(dist[neigh]>dis+more){
+                    dist[neigh]=dis+more;
+                    pq.push({neigh,dist[neigh]});
                 }
             }
-        }
-        for(int i=0;i<n;i++){
-            if(dist[i]==1e9) dist[i]=-1;
         }
         return dist;
     }
 };
-
-
-
-//{ Driver Code Starts.
-
-int main() {
-    int t;
-    cin >> t;
-    while (t--) {
-        int V, E;
-        cin >> V >> E;
-        vector<vector<int>> edges;
-        int i = 0;
-        while (i++ < E) {
-            int u, v, w;
-            cin >> u >> v >> w;
-            edges.push_back({u, v, w});
-            edges.push_back({v, u, w});
-        }
-        int src;
-        cin >> src;
-        cin.ignore();
-
-        Solution obj;
-        vector<int> res = obj.dijkstra(V, edges, src);
-
-        for (int i = 0; i < V; i++)
-            cout << res[i] << " ";
-        cout << endl;
-
-        cout << "~"
-             << "\n";
-    }
-
-    return 0;
-}
-// } Driver Code Ends
