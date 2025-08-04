@@ -1,9 +1,9 @@
 class Solution {
 public:
     bool solve(int idx,int target,vector<int>&nums,vector<vector<int>>&dp){
+        if(target==0){return 1;}
         if(idx==0){
-            if(target==0)return 1;
-            return 0;
+            return (nums[0]==target);
         }
         if(dp[idx][target]!=-1)return dp[idx][target];
         bool nottake= solve(idx-1,target,nums,dp);
