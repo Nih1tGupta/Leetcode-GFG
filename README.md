@@ -302,6 +302,7 @@
 | [3760-assign-elements-to-groups-with-constraints](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3760-assign-elements-to-groups-with-constraints) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3790-fruits-into-baskets-ii](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3790-fruits-into-baskets-ii) |
 | [3827-implement-router](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3827-implement-router) |
 ## Greedy
 |  |
@@ -455,6 +456,7 @@
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3427-special-array-ii](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3427-special-array-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3643-zero-array-transformation-ii) |
+| [3790-fruits-into-baskets-ii](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3790-fruits-into-baskets-ii) |
 | [3827-implement-router](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3827-implement-router) |
 ## Sorting
 |  |
@@ -823,12 +825,14 @@
 | [3447-clear-digits](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3447-clear-digits) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3790-fruits-into-baskets-ii](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3790-fruits-into-baskets-ii) |
 ## Ordered Set
 |  |
 | ------- |
 | [2434-design-a-number-container-system](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2434-design-a-number-container-system) |
 | [2868-continuous-subarrays](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2868-continuous-subarrays) |
 | [3514-shortest-distance-after-road-addition-queries-ii](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3514-shortest-distance-after-road-addition-queries-ii) |
+| [3790-fruits-into-baskets-ii](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3790-fruits-into-baskets-ii) |
 | [3827-implement-router](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3827-implement-router) |
 ## Rolling Hash
 |  |
@@ -1127,4 +1131,8 @@
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Segment Tree
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3790-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->
