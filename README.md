@@ -149,6 +149,7 @@
 | [0410-split-array-largest-sum](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0494-target-sum) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0542-01-matrix) |
 | [0605-can-place-flowers](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0605-can-place-flowers) |
 | [0630-course-schedule-iii](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0630-course-schedule-iii) |
@@ -433,6 +434,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0209-minimum-size-subarray-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0300-longest-increasing-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0410-split-array-largest-sum) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0540-single-element-in-a-sorted-array) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1056-capacity-to-ship-packages-within-d-days) |
