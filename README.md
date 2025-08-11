@@ -7,6 +7,7 @@
 | ------- |
 | [0078-subsets](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0078-subsets) |
 | [1022-unique-paths-iii](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1022-unique-paths-iii) |
+| [1381-maximum-score-words-formed-by-letters](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1940-maximum-xor-for-each-query](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1940-maximum-xor-for-each-query) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -55,6 +56,7 @@
 | [1160-letter-tile-possibilities](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1160-letter-tile-possibilities) |
 | [1170-shortest-common-supersequence](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1170-shortest-common-supersequence) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [1381-maximum-score-words-formed-by-letters](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1502-construct-k-palindrome-strings](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1502-construct-k-palindrome-strings) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -181,6 +183,7 @@
 | [1319-unique-number-of-occurrences](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1319-unique-number-of-occurrences) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1364-tuple-with-same-product](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1364-tuple-with-same-product) |
+| [1381-maximum-score-words-formed-by-letters](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1396-count-servers-that-communicate](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1396-count-servers-that-communicate) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -376,6 +379,7 @@
 | [0967-minimum-falling-path-sum](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0967-minimum-falling-path-sum) |
 | [1129-longest-string-chain](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1170-shortest-common-supersequence) |
+| [1381-maximum-score-words-formed-by-letters](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
@@ -969,6 +973,7 @@
 | [0494-target-sum](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0494-target-sum) |
 | [1022-unique-paths-iii](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1022-unique-paths-iii) |
 | [1160-letter-tile-possibilities](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1160-letter-tile-possibilities) |
+| [1381-maximum-score-words-formed-by-letters](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -1137,4 +1142,8 @@
 |  |
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3790-fruits-into-baskets-ii) |
+## Bitmask
+|  |
+| ------- |
+| [1381-maximum-score-words-formed-by-letters](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1381-maximum-score-words-formed-by-letters) |
 <!---LeetCode Topics End-->
