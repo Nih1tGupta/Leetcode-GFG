@@ -27,13 +27,11 @@ public:
         for(int i=0; i<n; i++){
             vector<int> hash (256, -1);
             for(int j=i; j<n; j++){
-                if(hash[s[j]] != -1)
-                    break;
-                else{
+                if(hash[s[j]] != -1)break;
+                
                     len = j - i + 1;
                     maxlen = max(len, maxlen);
-                  
-                }
+                
                   hash[s[j]] = 1;
             }
         }
