@@ -1,20 +1,28 @@
 class Solution {
 public:
     int maxAbsoluteSum(vector<int>& nums) {
-        int maxi=INT_MIN;
-        int s1=0;
-        for(int i=0;i<nums.size();i++){
-            s1+=nums[i];
-            if(s1<0){s1=0;}
-            maxi=max(maxi,s1);
+        // int maxi=INT_MIN;
+        // int s1=0;
+        // for(int i=0;i<nums.size();i++){
+        //     s1+=nums[i];
+        //     if(s1<0){s1=0;}
+        //     maxi=max(maxi,s1);
+        // }
+        // int maxii=INT_MIN;
+        // int s2=0;
+        // for(int i=0;i<nums.size();i++){
+        //     s2+=nums[i];
+        //     if(s2>0){s2=0;}
+        //     maxi=max(maxi,abs(s2));
+        // }
+        // return max(maxi,maxii);
+
+         int positiveSum = 0, negativeSum = 0, ans = 0;
+        for (int num : nums) {
+            positiveSum = max(0, positiveSum + num);
+            negativeSum = min(0, negativeSum + num);
+            ans = max({ans, positiveSum, abs(negativeSum)});
         }
-        int maxii=INT_MIN;
-        int s2=0;
-        for(int i=0;i<nums.size();i++){
-            s2+=nums[i];
-            if(s2>0){s2=0;}
-            maxi=max(maxi,abs(s2));
-        }
-        return max(maxi,maxii);
+        return ans;
     }
 };
