@@ -30,5 +30,6 @@ bool isvalid(vector<vector<char>> &board,char c,int row,int col){
          
     
         
+    
     }
 };
