@@ -679,6 +679,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0012-integer-to-roman) |
 | [0189-rotate-array](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0202-happy-number) |
