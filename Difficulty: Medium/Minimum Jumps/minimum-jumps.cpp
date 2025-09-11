@@ -1,50 +1,29 @@
-//{ Driver Code Starts
-#include <bits/stdc++.h>
-using namespace std;
-
-
-// } Driver Code Ends
-
 class Solution {
   public:
+  
+   
     int minJumps(vector<int>& arr) {
-        // code here
-       int lastidx=0;int cover=0;int des=arr.size()-1;
-        int maxi=INT_MIN;int j=0;
-        for(int i=0;i<arr.size();i++){
-            cover= max(cover,i+arr[i]);
-            if(i==lastidx){
-                j++;lastidx=cover;
-                if(cover>=des){return j;}
+          int n = arr.size();
+        
+        if(n<2)
+          return 0;
+        if(arr[0]==0)
+          return -1;
+        
+        int last=0, count=0, maxi=0;
+        
+        
+        for(int i=0;i<n;i++){
+            maxi = max(maxi, i+arr[i]);
+            
+            if(i==last){
+                count++;
+                last = maxi;
+                if(last >= (n-1))
+                  return count;
             }
+            
         }
         return -1;
     }
 };
-
-
-
-//{ Driver Code Starts.
-
-int main() {
-    int t;
-    cin >> t;
-    cin.ignore();
-    while (t--) {
-        int n, i, j;
-        vector<int> arr;
-        string ip;
-        int number;
-        getline(cin, ip);
-        stringstream ss(ip);
-
-        while (ss >> number) {
-            arr.push_back(number);
-        }
-        Solution obj;
-        cout << obj.minJumps(arr) << endl << "~\n";
-    }
-    return 0;
-}
-
-// } Driver Code Ends
