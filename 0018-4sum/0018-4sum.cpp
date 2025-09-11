@@ -1,32 +1,27 @@
 class Solution {
 public:
     vector<vector<int>> fourSum(vector<int>& nums, int target) {
-        int n = nums.size();
-        sort(nums.begin(), nums.end());
-        set<vector<int>> set;
-        vector<vector<int>> ans;
-        for(int i=0; i<n-3; i++){
-            for(int j=i+1; j<n-2; j++){
-                long long newTarget = (long long)target - (long long)nums[i] - (long long)nums[j];
-                int low = j+1;
-                int  high = n-1;
-                while(low < high){
-                    if(nums[low] + nums[high] < newTarget){
-                        low++;
+        int n=nums.size();
+        // brute->n^4 ------> map(n^3)---> n^2(logn)
+        set<vector<int>>st;
+        for(int i=0;i<nums.size();i++){
+            for(int j=i+1;j<nums.size();j++){
+                   set<long long>hashset;
+                for(int k=j+1;k<nums.size();k++){
+                    long long sum=nums[i]+nums[j];
+                    sum+=+nums[k];
+                    long long fourth=target-sum;
+                    if(hashset.find(fourth)!=hashset.end()){
+                     vector<int>temp={nums[i],nums[j],nums[k],int(fourth)};
+                     sort(temp.begin(),temp.end());
+                     st.insert(temp);
                     }
-                    else if(nums[low] + nums[high] > newTarget){
-                        high--;
-                    }
-                    else{
-                        set.insert({nums[i], nums[j], nums[low], nums[high]});
-                        low++; high--;
-                    }
+
+                    hashset.insert(nums[k]);
                 }
             }
         }
-        for(auto it : set){
-            ans.push_back(it);
-        }
+        vector<vector<int>>ans{st.begin(),st.end()};
         return ans;
     }
 };
