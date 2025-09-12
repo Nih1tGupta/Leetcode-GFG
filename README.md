@@ -99,6 +99,7 @@
 | [3447-clear-digits](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3447-clear-digits) |
 | [3451-string-compression-iii](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3451-string-compression-iii) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3462-vowels-game-in-a-string](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3462-vowels-game-in-a-string) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -707,6 +708,7 @@
 | [3227-find-missing-and-repeated-values](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3227-find-missing-and-repeated-values) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3321-type-of-triangle](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3321-type-of-triangle) |
+| [3462-vowels-game-in-a-string](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3462-vowels-game-in-a-string) |
 | [3548-find-the-count-of-good-integers](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3548-find-the-count-of-good-integers) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -1017,6 +1019,7 @@
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [3462-vowels-game-in-a-string](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3462-vowels-game-in-a-string) |
 ## Design
 |  |
 | ------- |
@@ -1160,4 +1163,8 @@
 |  |
 | ------- |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1381-maximum-score-words-formed-by-letters) |
+## Game Theory
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3462-vowels-game-in-a-string) |
 <!---LeetCode Topics End-->
