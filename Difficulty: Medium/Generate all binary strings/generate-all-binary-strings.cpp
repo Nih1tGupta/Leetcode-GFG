@@ -1,51 +1,24 @@
-//{ Driver Code Starts
-//Initial Template for C++
-#include<bits/stdc++.h>
-using namespace std;
+class Solution {
+  public:
+    vector<string> binstr(int n) {
+        // code here
+        vector<string> result;
+    if (n <= 0) {return result; }
 
-
-// } Driver Code Ends
-//User function Template for C++
-
-class Solution{
-public:
-    void f(int num,string s,vector<string>&v){
-        if(s.size()==num){
-            v.push_back(s);
-            return;
-        }
-        f(num,s+"0",v);
-        if( s.back()!='1'){
-            f(num,s+"1",v);
-        }
+    queue<string> q;
+    q.push("0");
+    q.push("1");
+    while (q.front().length() < n) {
+        string curr = q.front();q.pop();
+        q.push(curr + "0");
+        q.push(curr + "1");
     }
-    vector<string> generateBinaryStrings(int num){
-        vector<string>v;
-        f(num,"",v);
-        return v;
+
+    while (!q.empty()) {
+        result.push_back(q.front());
+        q.pop();
+    }
+
+    return result;
     }
 };
-
-//{ Driver Code Starts.
-int main(){
-    int t = 1;
-    cin >> t;
-
-
-    while(t--){
-        //Input
-        int n; cin >> n;
-
-        Solution obj;
-        
-        vector<string> v = obj.generateBinaryStrings(n);
-        for(auto it:v) cout<<it<<" ";
-        cout << endl;
-    
-cout << "~" << "\n";
-}
-
-    return 0;
-}
-
-// } Driver Code Ends
