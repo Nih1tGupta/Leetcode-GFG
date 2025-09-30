@@ -1,6 +1,5 @@
 class Solution {
   public:
-    
     vector<string> generateBinary(int n) {
         // code here
         vector<string>v;
