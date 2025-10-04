@@ -199,6 +199,7 @@
 | [1524-string-matching-in-an-array](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1524-string-matching-in-an-array) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1582-design-browser-history](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1582-design-browser-history) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1646-kth-missing-positive-number](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1646-kth-missing-positive-number) |
@@ -766,6 +767,7 @@
 | [0883-car-fleet](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0883-car-fleet) |
 | [0937-online-stock-span](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0937-online-stock-span) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1582-design-browser-history](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1582-design-browser-history) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -1013,6 +1015,7 @@
 | [0138-copy-list-with-random-pointer](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0138-copy-list-with-random-pointer) |
 | [0146-lru-cache](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0146-lru-cache) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [1582-design-browser-history](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1582-design-browser-history) |
 ## Recursion
 |  |
 | ------- |
@@ -1039,6 +1042,7 @@
 | [0937-online-stock-span](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0937-online-stock-span) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1477-product-of-the-last-k-numbers) |
+| [1582-design-browser-history](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1582-design-browser-history) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2139-detect-squares](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2139-detect-squares) |
 | [2434-design-a-number-container-system](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2434-design-a-number-container-system) |
@@ -1047,6 +1051,7 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0146-lru-cache) |
+| [1582-design-browser-history](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1582-design-browser-history) |
 ## Tree
 |  |
 | ------- |
@@ -1121,6 +1126,7 @@
 | [0295-find-median-from-data-stream](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0295-find-median-from-data-stream) |
 | [0937-online-stock-span](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0937-online-stock-span) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1477-product-of-the-last-k-numbers) |
+| [1582-design-browser-history](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1582-design-browser-history) |
 ## Shortest Path
 |  |
 | ------- |
