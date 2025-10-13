@@ -317,6 +317,7 @@
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3790-fruits-into-baskets-ii) |
 | [3827-implement-router](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3827-implement-router) |
+| [3892-best-time-to-buy-and-sell-stock-v](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3892-best-time-to-buy-and-sell-stock-v) |
 ## Greedy
 |  |
 | ------- |
@@ -405,6 +406,7 @@
 | [3243-count-the-number-of-powerful-integers](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3892-best-time-to-buy-and-sell-stock-v](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3892-best-time-to-buy-and-sell-stock-v) |
 ## Matrix
 |  |
 | ------- |
