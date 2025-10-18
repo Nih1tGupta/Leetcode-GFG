@@ -1,24 +1,17 @@
 class Solution {
 public:
     int maxDistinctElements(vector<int>& nums, int k) {
-        int n = nums.size();
-        // Sort the arrat to make the task of making similar elements distinct.
-        sort(nums.begin(), nums.end());
-        // Make the array start from minimum possible element
-        nums[0] -= k;
-        int i = 1;
-        while(i<n){
-            int curr = nums[i];
-            int f = max(curr-k, nums[i-1]+1);
-            // Always try to make smallest possible value greater that previous one.
-            while(i<n && nums[i]==curr){
-                nums[i] = min(f, curr+k);
-                f++;
-                i++;
-            }
+        //  BRUTE - N*K;
+        // HAR EK ELEMENT KE LIYE -K TO +K, TAK JAO AUR SET ME DAALO]
+        // BUT OPTIMAL IS USING COUNT AND PREV-
+        // NO NEED TO STORE SET./MAP EXTRA SPACE
+        int c=0;int prev=INT_MIN;
+        sort(nums.begin(),nums.end());
+        for(int i=0;i<nums.size();i++){
+            int mini= nums[i]-k;
+            if(prev<mini){c++;prev=mini;}  // prev equal bhi nhi aur greater bhinhi hona chahiye
+            else if(prev<nums[i]+k){prev+=1;c++;}
         }
-        map<int,int>mp;
-        for(auto i:nums) mp[i]++;
-        return mp.size();
+        return c;
     }
 };
