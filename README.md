@@ -107,6 +107,7 @@
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Trie
 |  |
 | ------- |
@@ -730,11 +731,13 @@
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Number Theory
 |  |
 | ------- |
 | [2716-prime-subtraction-operation](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2716-prime-subtraction-operation) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3001-apply-operations-to-maximize-score) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -865,6 +868,7 @@
 | [3447-clear-digits](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3447-clear-digits) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3790-fruits-into-baskets-ii) |
 ## Ordered Set
 |  |
@@ -1151,6 +1155,7 @@
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3548-find-the-count-of-good-integers](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3548-find-the-count-of-good-integers) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Merge Sort
 |  |
 | ------- |
