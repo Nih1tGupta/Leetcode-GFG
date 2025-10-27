@@ -77,6 +77,7 @@
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2232-adding-spaces-to-a-string](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2232-adding-spaces-to-a-string) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2300-construct-string-with-repeat-limit) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2346-largest-3-same-digit-number-in-string) |
@@ -234,6 +235,7 @@
 | [2215-finding-3-digit-even-numbers](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2215-finding-3-digit-even-numbers) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2232-adding-spaces-to-a-string](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2232-adding-spaces-to-a-string) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2262-solving-questions-with-brainpower](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2262-solving-questions-with-brainpower) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
@@ -434,6 +436,7 @@
 | [1396-count-servers-that-communicate](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1396-count-servers-that-communicate) |
 | [1876-map-of-highest-peak](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1876-map-of-highest-peak) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2428-equal-row-and-column-pairs](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2428-equal-row-and-column-pairs) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2685-first-completely-painted-row-or-column) |
@@ -714,6 +717,7 @@
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2050-count-good-numbers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2448-count-number-of-bad-pairs](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2448-count-number-of-bad-pairs) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2649-count-total-number-of-colored-cells) |
