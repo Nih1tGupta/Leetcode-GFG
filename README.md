@@ -591,6 +591,7 @@
 | [2428-equal-row-and-column-pairs](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2428-equal-row-and-column-pairs) |
 | [2434-design-a-number-container-system](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2448-count-number-of-bad-pairs) |
+| [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -932,6 +933,7 @@
 | [1396-count-servers-that-communicate](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1396-count-servers-that-communicate) |
 | [1428-jump-game-iii](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1428-jump-game-iii) |
 | [1558-course-schedule-iv](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1558-course-schedule-iv) |
+| [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2793-count-the-number-of-complete-components) |
 ## Breadth-First Search
@@ -967,6 +969,7 @@
 | [1428-jump-game-iii](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1428-jump-game-iii) |
 | [1558-course-schedule-iv](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1558-course-schedule-iv) |
 | [1876-map-of-highest-peak](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1876-map-of-highest-peak) |
+| [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2793-count-the-number-of-complete-components) |
@@ -1098,6 +1101,7 @@
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Tree
 |  |
 | ------- |
@@ -1123,6 +1127,7 @@
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Topological Sort
 |  |
 | ------- |
