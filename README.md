@@ -42,6 +42,7 @@
 | [0115-distinct-subsequences](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0131-palindrome-partitioning) |
 | [0165-compare-version-numbers](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0165-compare-version-numbers) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0394-decode-string](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0394-decode-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0402-remove-k-digits](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0402-remove-k-digits) |
@@ -915,6 +916,7 @@
 | [0207-course-schedule](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0210-course-schedule-ii) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0337-house-robber-iii](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0337-house-robber-iii) |
 | [0386-lexicographical-numbers](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0386-lexicographical-numbers) |
@@ -948,6 +950,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0210-course-schedule-ii) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0407-trapping-rain-water-ii) |
@@ -1062,6 +1065,7 @@
 | [0155-min-stack](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0173-binary-search-tree-iterator) |
 | [0295-find-median-from-data-stream](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0295-find-median-from-data-stream) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0304-range-sum-query-2d-immutable) |
 | [0937-online-stock-span](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0937-online-stock-span) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -1092,6 +1096,7 @@
 | [0173-binary-search-tree-iterator](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0337-house-robber-iii](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0337-house-robber-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0543-diameter-of-binary-tree) |
@@ -1118,6 +1123,7 @@
 | [0173-binary-search-tree-iterator](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0337-house-robber-iii](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0337-house-robber-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0543-diameter-of-binary-tree) |
