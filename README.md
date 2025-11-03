@@ -65,6 +65,7 @@
 | [1524-string-matching-in-an-array](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1777-determine-if-two-strings-are-close) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -209,6 +210,7 @@
 | [1646-kth-missing-positive-number](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1646-kth-missing-positive-number) |
 | [1656-count-good-triplets](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1656-count-good-triplets) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1755-defuse-the-bomb](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1755-defuse-the-bomb) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -346,6 +348,7 @@
 | [0797-rabbits-in-forest](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0797-rabbits-in-forest) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1502-construct-k-palindrome-strings](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1502-construct-k-palindrome-strings) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1917-maximum-average-pass-ratio](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1917-maximum-average-pass-ratio) |
@@ -402,6 +405,7 @@
 | [1381-maximum-score-words-formed-by-letters](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2061-painting-a-grid-with-three-different-colors) |
