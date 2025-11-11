@@ -1,19 +1,11 @@
 class Solution {
 public:
     int maxChunksToSorted(vector<int>& arr) {
-       int chunk = 0;
-        vector<int> max(arr.size());
-        max[0] = arr[0];
-
-        for(int i = 1; i < arr.size(); i++) {
-            max[i] = std::max(max[i - 1], arr[i]);
+        int cs=0;int ct=0; int org=0;
+        for(int i=0;i<arr.size();i++){
+            cs+=arr[i]; org+=i;
+            if(cs==org)ct++;
         }
-
-        for(int i = 0; i < arr.size(); i++) {
-            if(max[i] == i) {
-                chunk++;
-            }
-        }
-        return chunk;
+        return ct;
     }
 };
