@@ -1,10 +1,3 @@
-//{ Driver Code Starts
-#include <bits/stdc++.h>
-using namespace std;
-
-
-// } Driver Code Ends
-
 class Solution {
   public:
     bool solve(int i,int j,string &pattern,string &text,vector<vector<int>>&dp){
@@ -32,30 +25,8 @@ class Solution {
          int n = pat.size(), m = txt.size();
         vector<vector<int>> dp(n, vector<int> (m, -1));
         return solve(n-1, m-1, pat, txt, dp);
-
+// ''
+        // code here
+        
     }
 };
-
-
-//{ Driver Code Starts.
-int main() {
-    int t;
-    cin >> t;
-    while (t--) {
-        string pat, text;
-        cin >> pat;
-        cin.ignore(numeric_limits<streamsize>::max(), '\n');
-        cin >> text;
-        Solution obj;
-        bool ans = obj.wildCard(text, pat);
-        if (ans)
-            cout << "true" << endl;
-        else
-            cout << "false" << endl;
-
-        cout << "~"
-             << "\n";
-    }
-}
-
-// } Driver Code Ends
