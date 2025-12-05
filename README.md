@@ -299,6 +299,7 @@
 | [3427-special-array-ii](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3427-special-array-ii) |
 | [3429-special-array-i](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3429-special-array-i) |
 | [3430-count-days-without-meetings](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3430-count-days-without-meetings) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3483-alternating-groups-ii) |
@@ -671,6 +672,7 @@
 | [2465-shifting-letters-ii](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3427-special-array-ii](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3427-special-array-ii) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3639-zero-array-transformation-i](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3643-zero-array-transformation-ii) |
@@ -741,6 +743,7 @@
 | [3227-find-missing-and-repeated-values](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3227-find-missing-and-repeated-values) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3321-type-of-triangle](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3321-type-of-triangle) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3462-vowels-game-in-a-string](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3462-vowels-game-in-a-string) |
 | [3548-find-the-count-of-good-integers](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3548-find-the-count-of-good-integers) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
