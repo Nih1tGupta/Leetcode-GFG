@@ -222,6 +222,7 @@
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1917-maximum-average-pass-ratio](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1917-maximum-average-pass-ratio) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1927-maximum-ascending-subarray-sum) |
+| [1929-concatenation-of-array](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1929-concatenation-of-array) |
 | [1940-maximum-xor-for-each-query](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1940-maximum-xor-for-each-query) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1977-minimum-interval-to-include-each-query) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -873,6 +874,7 @@
 | ------- |
 | [0735-asteroid-collision](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0735-asteroid-collision) |
 | [1642-water-bottles](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1642-water-bottles) |
+| [1929-concatenation-of-array](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1929-concatenation-of-array) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2048-build-array-from-permutation) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/2137-final-value-of-variable-after-performing-operations) |
