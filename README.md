@@ -144,6 +144,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0118-pascals-triangle](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0130-surrounded-regions) |
 | [0135-candy](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0135-candy) |
 | [0152-maximum-product-subarray](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0152-maximum-product-subarray) |
@@ -566,6 +567,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0128-longest-consecutive-sequence](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0138-copy-list-with-random-pointer) |
 | [0146-lru-cache](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0146-lru-cache) |
 | [0202-happy-number](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0202-happy-number) |
@@ -1239,4 +1241,8 @@
 |  |
 | ------- |
 | [3462-vowels-game-in-a-string](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/3462-vowels-game-in-a-string) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
