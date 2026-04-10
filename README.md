@@ -133,6 +133,7 @@
 | [0046-permutations](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0046-permutations) |
 | [0055-jump-game](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0056-merge-intervals) |
+| [0059-spiral-matrix-ii](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0075-sort-colors) |
@@ -433,6 +434,7 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0037-sudoku-solver) |
+| [0059-spiral-matrix-ii](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0079-word-search) |
@@ -883,6 +885,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0059-spiral-matrix-ii) |
 | [0735-asteroid-collision](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/0735-asteroid-collision) |
 | [1642-water-bottles](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1642-water-bottles) |
 | [1929-concatenation-of-array](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1929-concatenation-of-array) |
