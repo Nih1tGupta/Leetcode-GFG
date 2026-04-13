@@ -222,6 +222,7 @@
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1876-map-of-highest-peak](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Nih1tGupta/Leetcode-GFG/tree/master/1878-check-if-array-is-sorted-and-rotated) |
